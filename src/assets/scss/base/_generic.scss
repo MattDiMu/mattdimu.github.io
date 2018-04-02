@@ -2,6 +2,12 @@
  * Generic
  */
 
+*,
+*::after,
+*::before {
+    box-sizing: border-box;
+}
+
 html {
     font-size: $typographic-root-font-size;
 }

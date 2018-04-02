@@ -2,7 +2,14 @@
 @import "../../assets/scss/mixins";
 
 .base-entry {
+    list-style-type: none;
+    display: block;
+    width: 100%;
     &__title {
         font-weight: bold;
+        display: block;
+    }
+    &__time {
+        color: #999;
     }
 }
