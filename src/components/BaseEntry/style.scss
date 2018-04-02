@@ -1,0 +1,8 @@
+@import "../../assets/scss/variables";
+@import "../../assets/scss/mixins";
+
+.base-entry {
+    &__title {
+        font-weight: bold;
+    }
+}

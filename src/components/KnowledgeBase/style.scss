@@ -1,0 +1,28 @@
+@import "../../assets/scss/variables";
+@import "../../assets/scss/mixins";
+
+.knowledge-base {
+    &__filter {
+        fieldset {
+            border: none;
+            padding: 0;
+            margin: 0;
+        }
+        label {
+            display: inline-block;
+            padding-right: 1em;
+
+            input {
+                width: 
+            }
+            input,
+            span {
+                line-height: 1rem;
+                font-size: 1rem;
+            }
+            span {
+                padding-left: .5em;
+            }
+        }
+    }
+}
