@@ -4,9 +4,9 @@ import './style.scss';
 
 class BaseEntry extends React.Component {
   render() {
-    const title = this.props.title;
-    const description = this.props.description;
-    const date = moment(this.props.date);
+    const title = this.props.item.title;
+    const description = this.props.item.description;
+    const date = moment(this.props.item.date);
 
     return (
       <li className="base-entry">
