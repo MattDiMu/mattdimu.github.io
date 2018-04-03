@@ -6,6 +6,12 @@ class BaseEntry extends React.Component {
   render() {
     const title = this.props.item.title;
     const description = this.props.item.description;
+    const linkArr = this.props.item.link || [];
+    const Links = [];
+    linkArr.forEach(link => {
+      Links.push(<a href="{link}" rel="noopener" target="_blank">{link}</a>);
+    })
+
     const date = moment(this.props.item.date);
 
     return (
@@ -16,6 +22,7 @@ class BaseEntry extends React.Component {
             {date.format('MMMMM D, YYYY')}
           </time>
         }
+        {Links}
         <p className="base-entry__description">{description}</p>
       </li>
     );
