@@ -15,12 +15,12 @@ class Links extends React.Component {
             </a>
           </li>
           <li className="links__list-item">
-            <a href={`https://www.github.com/${author.github}`} target="_blank" >
+            <a href={`https://www.github.com/${author.github}`} target="_blank" rel="noopener" >
               <i className="icon-github" />
             </a>
           </li>
           <li className="links__list-item">
-            <a href={`https://www.twitter.com/${author.twitter}`} target="_blank" >
+            <a href={`https://www.twitter.com/${author.twitter}`} target="_blank" rel="noopener" >
               <i className="icon-twitter" />
             </a>
           </li>
