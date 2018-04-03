@@ -3,6 +3,9 @@
 
 .knowledge-base {
     &__filter {
+        legend {
+            font-weight: bold;
+        }
         fieldset {
             border: none;
             padding: 0 0 1rem;
