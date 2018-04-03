@@ -8,6 +8,9 @@
         padding: 25px 20px 0;
     }
     &__author {
+        a {
+            display: inline-block;
+        }
         &-photo {
             display: inline-block;
             margin-bottom: 0;
