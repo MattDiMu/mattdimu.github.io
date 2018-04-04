@@ -28,7 +28,7 @@ class ArticlesRoute extends React.Component {
           <meta name="twitter:site" content="@MattDiMu" />
           <meta name="twitter:url" content="https://www.matthiasmueller.me" />
           <meta name="twitter:title" content="Knowledge Base" />
-          <meta name="theme-color" content="#5d93ff" />
+          <meta name="theme-color" content="#1976d2" />
           <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
           <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png" />
           <link rel="shortcut icon" href="/favicon.ico" />
