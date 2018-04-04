@@ -162,7 +162,7 @@ module.exports = {
       resolve: `gatsby-plugin-manifest`,
       options: {
         name: "Knowledge Base by Matthias Müller",
-        short_name: "Knowledge B.",
+        short_name: "Know. Base",
         start_url: "/",
         background_color: "#ffffff",
         theme_color: "#1976d2",
