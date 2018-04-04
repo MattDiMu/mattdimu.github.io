@@ -6,6 +6,7 @@ export default {
     magnolia: 'Magnolia',
     network: 'Network',
     osx: 'OSX',
+    linux: 'Linux',
     visualization: 'Visualization',
     ux: 'User Experience',
     'package-manager': 'Package Manager'
@@ -48,6 +49,18 @@ export default {
       ],
       title: 'Data looks better naked',
       description: 'recommendations for minimalistic data representations'
+    },
+    {
+      date: '2018-04-04',
+      tags: [
+        'proc',
+        'linux'
+      ],
+      links: [
+        'https://pbs.twimg.com/media/DZ3HpVXXkAEgxpc.jpg:large'
+      ],
+      title: 'Linux proc directory Cheat Sheet',
+      description: ''
     }
   ]
 };
