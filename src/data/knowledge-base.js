@@ -9,6 +9,7 @@ export default {
     linux: 'Linux',
     visualization: 'Visualization',
     ux: 'User Experience',
+    security: 'Security',
     'package-manager': 'Package Manager'
   },
   entries: [
@@ -61,6 +62,14 @@ export default {
       ],
       title: 'Linux proc directory Cheat Sheet',
       description: ''
+    },
+    {
+      date: '2018-04-04',
+      links: [
+        'https://medium.com/@umpox/be-careful-what-you-copy-invisibly-inserting-usernames-into-text-with-zero-width-characters-18b4e6f17b66'
+      ],
+      title: 'Using zero-width-characters for hiding information'
+      
     }
   ]
 };
