@@ -44,7 +44,6 @@ module.exports = class HTML extends React.Component {
           <script
             dangerouslySetInnerHTML={{ //eslint-disable-line
               __html: `
-                console.log("starting font loading...");
                 WebFontConfig = {
                   google: {
                     families: ['Roboto:400,500,i']
