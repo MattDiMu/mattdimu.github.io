@@ -119,12 +119,12 @@ module.exports = {
       resolve: 'gatsby-plugin-google-analytics',
       options: { trackingId: 'UA-116825399-1' }
     },
-    {
-      resolve: `gatsby-plugin-google-fonts`,
-      options: {
-        fonts: [ `roboto\:400,400i,500,700` ]
-      }
-    },
+    // {
+    //   resolve: `gatsby-plugin-google-fonts`,
+    //   options: {
+    //     fonts: [ `roboto\:400,400i,500` ]
+    //   }
+    // },
     {
       resolve: 'gatsby-plugin-sitemap',
       options: {
