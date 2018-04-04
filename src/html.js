@@ -46,7 +46,9 @@ module.exports = class HTML extends React.Component {
               __html: `
                 console.log("starting font loading...");
                 WebFontConfig = {
-                  google: { families: 'roboto:400,400i,500' }
+                  google: {
+                    families: ['Roboto:400,500,i']
+                  }
                 };
                 (function(d) {
                     var wf = d.createElement('script'), s = d.scripts[0];
