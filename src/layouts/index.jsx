@@ -25,19 +25,22 @@ class Layout extends React.Component {
           <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
           <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png" />
           <link rel="shortcut icon" href="/favicon.ico" />
-          <script>
-            WebFontConfig = {
-                google: { families: 'roboto:400,400i,500' }
-            };
-            (function(d) {
-                var wf = d.createElement('script'), s = d.scripts[0];
-                wf.src = 'https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js';
-                wf.async = true;
-                s.parentNode.insertBefore(wf, s);
-            })(document);
-          </script>
-
-
+          <script
+            dangerouslySetInnerHTML={{ // eslint-disable-line
+              __html: `
+                    console.log("starting font loading...");
+                    WebFontConfig = {
+                      google: { families: 'roboto:400,400i,500' }
+                    };
+                    (function(d) {
+                        var wf = d.createElement('script'), s = d.scripts[0];
+                        wf.src = 'https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js';
+                        wf.async = true;
+                        s.parentNode.insertBefore(wf, s);
+                    })(document);
+                  `
+            }}
+          />
         </Helmet>
         {children()}
       </div>
