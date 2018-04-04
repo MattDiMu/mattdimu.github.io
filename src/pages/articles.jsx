@@ -19,7 +19,7 @@ class ArticlesRoute extends React.Component {
           <meta name="description" content={subtitle} />
           <meta name="apple-mobile-web-app-capable" content="yes" />
           <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
-          <meta name="apple-mobile-web-app-title" content="Knowledge Base by Matthias Müller" />  
+          <meta name="apple-mobile-web-app-title" content="Knowledge Base by Matthias Müller" />
           <meta property="og:site_name" content="Matthias Müller" />
           <meta property="og:title" content="Knowledge Base" />
           <meta property="og:url" content="https://www.matthiasmueller.me" />
