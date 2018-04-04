@@ -13,7 +13,7 @@ class KnowledgeBase extends React.Component {
       isLoading: true,
       selectedDate: 'all',
       availableTags: {},
-      selectedTag: null,
+      selectedTag: '',
       entries: []
     };
   }
