@@ -4,6 +4,9 @@ import Link from 'gatsby-link';
 import Menu from '../Menu';
 import Links from '../Links';
 import profilePic from '../../pages/mattdimu_avatar_square.jpg';
+import profilePic2 from '../../pages/mattdimu_avatar_square_2.jpg';
+import profilePic3 from '../../pages/mattdimu_avatar_square_3.jpg';
+import profilePic4 from '../../pages/mattdimu_avatar_square_4.jpg';
 import './style.scss';
 
 class Sidebar extends React.Component {
@@ -18,6 +21,7 @@ class Sidebar extends React.Component {
         <Link to="/">
           <img
             src={profilePic}
+            srcSet={profilePic2 + " 2x, " + profilePic3 + " 3x, " + profilePic4 + " 4x"}
             className="sidebar__author-photo"
             width="125"
             height="125"
