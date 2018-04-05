@@ -79,8 +79,10 @@ export default {
         'https://www.youtube.com/watch?v=hQZ7Xg7q7zw'
       ],
       title: 'How Browser handle Images',
-      description: `JPG vs PNG vs WebP vs HEIF
-                    How browser handle images & Optimizations`
+      description: `JPG vs PNG vs WebP vs HEIF \n
+                    How browser handle images & Optimizations \n
+                    Techniques: blur up, histogram scope reduction ~20% \n
+                    consider missing css filters on shared images`
     }
   ]
 };
