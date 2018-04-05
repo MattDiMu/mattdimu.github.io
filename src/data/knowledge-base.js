@@ -69,7 +69,17 @@ export default {
         'https://medium.com/@umpox/be-careful-what-you-copy-invisibly-inserting-usernames-into-text-with-zero-width-characters-18b4e6f17b66'
       ],
       title: 'Using zero-width-characters for hiding information'
-      
+    },
+    {
+      date: '2018-04-05',
+      tags: [
+        'browser'
+      ],
+      links: [
+        'https://www.youtube.com/watch?v=hQZ7Xg7q7zw'
+      ],
+      title: 'How Browser handle Images',
+      description: ''
     }
   ]
 };
