@@ -81,7 +81,7 @@ export default {
       title: 'How Browser handle Images',
       description: `JPG vs PNG vs WebP vs HEIF \n
                     How browser handle images & Optimizations \n
-                    Techniques: blur up, histogram scope reduction ~20% \n
+                    Techniques: blur up, contrast swap like jpg, histogram scope reduction ~20% \n
                     consider missing css filters on shared images`
     }
   ]
