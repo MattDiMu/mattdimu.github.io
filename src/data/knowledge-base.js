@@ -9,6 +9,7 @@ export default {
     linux: 'Linux',
     visualization: 'Visualization',
     ux: 'User Experience',
+    cs: 'Computer Science',
     security: 'Security',
     'package-manager': 'Package Manager'
   },
@@ -83,6 +84,19 @@ export default {
         Download -> Decode -> VRAM -> Composite
         Techniques: blur up, contrast swap like jpg, histogram scope reduction ~20%
         consider missing css filters on shared images`
+    },
+    {
+      date: '2018-04-06',
+      tags: [
+        'cs'
+      ],
+      links: [
+        'https://dev.to/supermanitu/how-does-a-map-work-2l94'
+      ],
+      title: 'How a Map works under the hood',
+      description: `calculating memory address space
+        collision avoidance strategies: Linear hashing, Double Hashing, Linked List
+        O(1) for insertion, random access and deletion, but Linked List based Maps have O(n) for random access and deletion`
     }
   ]
 };
