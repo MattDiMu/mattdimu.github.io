@@ -1,0 +1,30 @@
+@import "../../assets/scss/variables";
+@import "../../assets/scss/mixins";
+
+.base-entry {
+    list-style-type: none;
+    display: block;
+    width: 100%;
+    margin-bottom: 1.5rem;
+    &__title {
+        font-size: 1.25rem;
+        margin: 0;
+        display: inline-block;
+    }
+    &__time {
+        color: #999;
+        display: inline-block;
+        padding-left: 1rem;
+        display: none;
+    }
+    &__description {
+        margin: 0;
+        white-space: pre-line;
+    }
+    &__link {
+        display: block;
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+    }
+}
