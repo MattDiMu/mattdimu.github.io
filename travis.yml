@@ -37,3 +37,6 @@ addons:
 script:
   - npm install
 - npm run lint
+branches:
+  only:
+  - gh-pages
