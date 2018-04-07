@@ -21,7 +21,7 @@ class Sidebar extends React.Component {
         <Link to="/">
           <img
             src={profilePic}
-            srcSet={profilePic2 + " 2x, " + profilePic3 + " 3x, " + profilePic4 + " 4x"}
+            srcSet={profilePic2 + ' 2x, ' + profilePic3 + ' 3x, ' + profilePic4 + ' 4x'}
             className="sidebar__author-photo"
             width="125"
             height="125"

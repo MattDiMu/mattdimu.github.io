@@ -43,7 +43,7 @@ class PostTemplateDetails extends React.Component {
         <div className="post-single">
           <div className="post-single__inner">
             <h1 className="post-single__title">{post.frontmatter.title}</h1>
-            <div className="post-single__body" dangerouslySetInnerHTML={{ __html: post.html }} />
+            <div className="post-single__body" dangerouslySetInnerHTML={{ __html: post.html }} /> {/* eslint-disable-line */}
             <div className="post-single__date">
               { postDate.isValid() &&
               <em>Last updated on {postDate.format('D MMMM YYYY')}, { author.name }</em>
