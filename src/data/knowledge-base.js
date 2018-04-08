@@ -5,12 +5,14 @@ export default {
     java: 'Java',
     magnolia: 'Magnolia',
     network: 'Network',
+    css: 'CSS',
     osx: 'OSX',
     linux: 'Linux',
     visualization: 'Visualization',
     ux: 'User Experience',
     cs: 'Computer Science',
     security: 'Security',
+    mail: 'E-Mail',
     'package-manager': 'Package Manager'
   },
   entries: [
@@ -97,6 +99,19 @@ export default {
       description: `calculating memory address space
         collision avoidance strategies: Linear hashing, Double Hashing, Linked List
         O(1) for insertion, random access and deletion, but Linked List based Maps have O(n) for random access and deletion`
+    },
+    {
+      date: '2018-04-08',
+      tags: [
+        'mail',
+        'css'
+      ],
+      links: [
+        'https://www.youtube.com/watch?v=tVQcfghzwJI'
+      ],
+      title: 'How a Map works under the hood',
+      description: `webkit 50%, gmail 25%, outlook 13%
+        width: calc(480px-100%)*480 => min-width or max width applies`
     }
   ]
 };
