@@ -109,7 +109,7 @@ export default {
       links: [
         'https://www.youtube.com/watch?v=tVQcfghzwJI'
       ],
-      title: 'How a Map works under the hood',
+      title: 'Responsive HTML-Emails',
       description: `webkit 50%, gmail 25%, outlook 13%
         width: calc(480px-100%)*480 => min-width or max width applies`
     }
