@@ -13,6 +13,7 @@ export default {
     cs: 'Computer Science',
     security: 'Security',
     mail: 'E-Mail',
+    mathematics: 'Mathematics',
     'package-manager': 'Package Manager'
   },
   entries: [
@@ -123,11 +124,17 @@ export default {
       ],
       title: 'Managing sytemd with systemctl',
       description: ``
-    }
-    
-
-    
-    
+    },
+    {
+      date: '2018-04-08',
+      tags: [
+        'mathematics'
+      ],
+      links: [
+        'https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab'
+      ],
+      title: 'Linear Algebra Video '
+    }  
     
     
   ]
