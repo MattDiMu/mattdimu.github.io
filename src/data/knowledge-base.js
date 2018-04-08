@@ -112,6 +112,23 @@ export default {
       title: 'Responsive HTML-Emails',
       description: `webkit 50%, gmail 25%, outlook 13%
         width: calc(480px-100%)*480 => min-width or max width applies`
+    },
+    {
+      date: '2018-04-08',
+      tags: [
+        'linux'
+      ],
+      links: [
+        'https://www.digitalocean.com/community/tutorials/how-to-use-systemctl-to-manage-systemd-services-and-units'
+      ],
+      title: 'Managing sytemd with systemctl',
+      description: ``
     }
+    
+
+    
+    
+    
+    
   ]
 };
