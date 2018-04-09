@@ -14,7 +14,8 @@ export default {
     security: 'Security',
     mail: 'E-Mail',
     mathematics: 'Mathematics',
-    'package-manager': 'Package Manager'
+    'package-manager': 'Package Manager',
+    organization: 'Organization'
   },
   entries: [
     {
@@ -134,8 +135,16 @@ export default {
         'https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab'
       ],
       title: 'Linear Algebra Video '
+    },
+    {
+      date: '2018-04-09',
+      tags: [
+        'organization'
+      ],
+      links: [
+        'https://www.youtube.com/watch?v=kmblhEj9BSA'
+      ],
+      title: 'Code Review & Time Management'
     }  
-    
-    
   ]
 };
