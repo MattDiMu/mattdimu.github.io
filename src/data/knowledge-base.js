@@ -2,7 +2,7 @@ export default {
   availableTags: {
     javascript: 'JavaScript',
     browser: 'Browser',
-    java: 'Java',
+    java: 'Java & JVM',
     magnolia: 'Magnolia',
     network: 'Network',
     css: 'CSS',
@@ -145,6 +145,21 @@ export default {
         'https://www.youtube.com/watch?v=kmblhEj9BSA'
       ],
       title: 'Code Review & Time Management'
-    }  
+    },
+    {
+      date: '2018-04-09',
+      tags: [
+        'java'
+      ],
+      links: [
+        'https://www.javacodegeeks.com/2018/04/jvm-architecture-overview-of-jvm-and-jvm-architecture.html'
+      ],
+      title: 'Overview of JVM and JVM Architecture'
+    }
+    
+    
+    
+    
+    
   ]
 };
