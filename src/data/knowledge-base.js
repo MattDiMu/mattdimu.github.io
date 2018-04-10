@@ -179,6 +179,21 @@ export default {
       ],
       title: 'A refresher on fetch API and the experimental AbortController',
       description: ``
-    }    
+    },
+    {
+      date: '2018-04-10',
+      tags: [
+        'css',
+        'javascript'
+      ],
+      links: [
+        'https://developers.google.com/web/updates/2018/03/cssom'
+      ],
+      title: 'CSSOM vs CSS Typed Object Model',
+      description: ``
+    },
+    
+    
+
   ]
 };
