@@ -155,9 +155,24 @@ export default {
         'https://www.javacodegeeks.com/2018/04/jvm-architecture-overview-of-jvm-and-jvm-architecture.html'
       ],
       title: 'Overview of JVM and JVM Architecture'
-    }
-    
-    
+    },
+    {
+      date: '2018-04-10',
+      tags: [
+        'javascript'
+      ],
+      links: [
+        'https://codeburst.io/understanding-javascript-proxies-by-examining-on-change-library-f252eddf76c2',
+        'https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Proxy'
+      ],
+      title: 'JavaScript Proxies',
+      description: `target (object), traps (intercepted operation) & handler (object containing all traps)
+                    e.g. const proxied = new Proxy(originalObject, {
+                      get(target, property, receiver) {
+                        return target[property];
+                      }
+                    });`
+    }   
     
     
     
