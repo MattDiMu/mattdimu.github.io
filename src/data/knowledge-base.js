@@ -5,6 +5,7 @@ export default {
     browser: 'Browser',
     javascript: 'JavaScript',
     css: 'CSS',
+    a11y: 'Accessibility',
     network: 'Network',
     'package-manager': 'Package Manager',
     osx: 'OSX',
@@ -227,7 +228,22 @@ export default {
       ],
       title: 'An interactive explanation of (audio) waveforms',
       description: ``
-    }  
+    },
+    {
+      date: '2018-04-10',
+      tags: [
+        'javascript',
+        'a11y'
+      ],
+      links: [
+        'https://hackernoon.com/its-a-focus-trap-699a04d66fb5'
+      ],
+      title: 'Focus Lock - a technique for accessible modal dialogs',
+      description: ``
+    },
+    
+    
+    
     
     
     
