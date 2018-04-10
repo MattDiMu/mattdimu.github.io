@@ -24,6 +24,11 @@ class Links extends React.Component {
               <i className="icon-twitter" />
             </a>
           </li>
+          <li className="links__list-item">
+            <a href={`https://stackoverflow.com/users/3815374/mattdimu`} target="_blank" rel="noopener" ><span className="visuallyhidden">Stackoverflow</span>
+              <i className="icon-stackoverflow" />
+            </a>
+          </li>
         </ul>
       </div>
     );
