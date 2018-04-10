@@ -1,11 +1,12 @@
 export default {
   availableTags: {
-    javascript: 'JavaScript',
-    browser: 'Browser',
     java: 'Java & JVM',
     magnolia: 'Magnolia',
-    network: 'Network',
+    browser: 'Browser',
+    javascript: 'JavaScript',
     css: 'CSS',
+    network: 'Network',
+    'package-manager': 'Package Manager',
     osx: 'OSX',
     linux: 'Linux',
     visualization: 'Visualization',
@@ -14,8 +15,8 @@ export default {
     security: 'Security',
     mail: 'E-Mail',
     mathematics: 'Mathematics',
-    'package-manager': 'Package Manager',
-    organization: 'Organization'
+    organization: 'Organization',
+    interesting: 'Interesting Stuff
   },
   entries: [
     {
@@ -216,6 +217,18 @@ export default {
       title: 'CSSOM vs CSS Typed Object Model',
       description: ``
     },
+    {
+      date: '2018-04-10',
+      tags: [
+        'interesting'
+      ],
+      links: [
+        'https://pudding.cool/2018/02/waveforms/'
+      ],
+      title: 'An interactive explanation of (audio) waveforms',
+      description: ``
+    }  
+    
     
     
 
