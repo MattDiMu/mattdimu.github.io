@@ -166,12 +166,7 @@ export default {
         'https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Proxy'
       ],
       title: 'JavaScript Proxies',
-      description: `target (object), traps (intercepted operation) & handler (object containing all traps)
-                    e.g. const proxied = new Proxy(originalObject, {
-                      get(target, property, receiver) {
-                        return target[property];
-                      }
-                    });`
+      description: `target (object), traps (intercepted operation) & handler (object containing all traps)`
     }   
     
     
