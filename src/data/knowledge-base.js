@@ -167,9 +167,18 @@ export default {
       ],
       title: 'JavaScript Proxies',
       description: `target (object), traps (intercepted operation) & handler (object containing all traps)`
-    }   
-    
-    
-    
+    },
+    {
+      date: '2018-04-10',
+      tags: [
+        'javascript'
+      ],
+      links: [
+        'https://developers.google.com/web/updates/2015/03/introduction-to-fetch',
+        'https://developer.mozilla.org/en-US/docs/Web/API/AbortController'
+      ],
+      title: 'A refresher on fetch API and the experimental AbortController',
+      description: ``
+    }    
   ]
 };
