@@ -16,7 +16,7 @@ export default {
     mail: 'E-Mail',
     mathematics: 'Mathematics',
     organization: 'Organization',
-    interesting: 'Interesting Stuff
+    interesting: 'Interesting Stuff'
   },
   entries: [
     {
