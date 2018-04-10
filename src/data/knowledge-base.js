@@ -103,6 +103,29 @@ export default {
         O(1) for insertion, random access and deletion, but Linked List based Maps have O(n) for random access and deletion`
     },
     {
+      date: '2018-04-07',
+      tags: [
+        'browser'
+      ],
+      links: [
+        'https://developers.google.com/web/updates/2015/12/getting-started-pwa'
+      ],
+      title: 'PWA Overview',
+      description: ``
+    },
+
+    {
+      date: '2018-04-08',
+      tags: [
+        'javascript'
+      ],
+      links: [
+        'https://developers.google.com/web/updates/2018/03/smooshgate'
+      ],
+      title: 'The problem of extending native prototypes',
+      description: ``
+    },
+    {
       date: '2018-04-08',
       tags: [
         'mail',
@@ -175,6 +198,7 @@ export default {
       ],
       links: [
         'https://developers.google.com/web/updates/2015/03/introduction-to-fetch',
+        'https://developers.google.com/web/updates/2017/09/abortable-fetch',
         'https://developer.mozilla.org/en-US/docs/Web/API/AbortController'
       ],
       title: 'A refresher on fetch API and the experimental AbortController',
