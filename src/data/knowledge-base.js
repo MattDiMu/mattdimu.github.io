@@ -241,12 +241,19 @@ export default {
       title: 'Focus Lock - a technique for accessible modal dialogs',
       description: ``
     },
-    
-    
-    
-    
-    
-    
+    {
+      date: '2018-04-11',
+      tags: [
+        'javascript',
+        'browser',
+        'a11y'
+      ],
+      links: [
+        'https://de.udacity.com/course/web-accessibility--ud891'
+      ],
+      title: 'Udacity Web Accessibility',
+      description: ``
+    }   
 
   ]
 };
