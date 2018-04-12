@@ -7,6 +7,7 @@ export default {
     css: 'CSS',
     a11y: 'Accessibility',
     network: 'Network',
+    performance: 'Performance',
     'package-manager': 'Package Manager',
     osx: 'OSX',
     linux: 'Linux',
@@ -253,7 +254,21 @@ export default {
       ],
       title: 'Udacity Web Accessibility',
       description: ``
+    },
+    {
+      date: '2018-04-11',
+      tags: [
+        'javascript',
+        'browser',
+        'performance'
+      ],
+      links: [
+        'https://alistapart.com/article/going-offline'
+      ],
+      title: 'History of Service Workers',
+      description: `Same Origin & HTTPS Only (like geolocation, payments api or notifications api)`
     }   
-
+    
+    
   ]
 };
