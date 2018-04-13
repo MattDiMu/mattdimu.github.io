@@ -267,8 +267,18 @@ export default {
       ],
       title: 'History of Service Workers',
       description: `Same Origin & HTTPS Only (like geolocation, payments api or notifications api)`
-    }   
-    
+    },
+    {
+      date: '2018-04-13',
+      tags: [
+        'javascript'
+      ],
+      links: [
+        'https://medium.com/google-developers/exploring-es7-decorators-76ecb65fb841'
+      ],
+      title: 'Recap of JavaScript/TypeScript Decorators',
+      description: ``
+    }
     
   ]
 };
