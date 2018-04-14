@@ -278,7 +278,19 @@ export default {
       ],
       title: 'Recap of JavaScript/TypeScript Decorators',
       description: ``
-    }
+    },
+    {
+      date: '2018-04-14',
+      tags: [
+        'mathematics'
+      ],
+      links: [
+        'https://www.youtube.com/watch?v=yk6wbvNPZW0'
+      ],
+      title: 'Visualising irrationality with triangular squares and other geometrical figures',
+      description: ``
+    }    
+    
     
   ]
 };
