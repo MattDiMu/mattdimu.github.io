@@ -289,7 +289,20 @@ export default {
       ],
       title: 'Visualising irrationality with triangular squares and other geometrical figures',
       description: ``
+    },
+    {
+      date: '2018-04-15',
+      tags: [
+        'javascript'
+      ],
+      links: [
+        'http://2ality.com/2017/08/promise-callback-data-flow.html'
+      ],
+      title: 'Passing data between Promise callbacks',
+      description: ``
     }    
+    
+    
     
     
   ]
