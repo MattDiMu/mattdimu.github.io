@@ -300,10 +300,20 @@ export default {
       ],
       title: 'Passing data between Promise callbacks',
       description: ``
+    },
+    {
+      date: '2018-04-16',
+      tags: [
+        'linux'
+      ],
+      links: [
+        'https://drawings.jvns.ca/proc/'
+      ],
+      title: 'About the /proc directory',
+      description: ``
     }    
     
-    
-    
+
     
   ]
 };
