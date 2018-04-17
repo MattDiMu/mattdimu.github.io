@@ -311,8 +311,19 @@ export default {
       ],
       title: 'About the /proc directory',
       description: ``
-    }    
-    
+    },
+    {
+      date: '2018-04-17',
+      tags: [
+        'javascript',
+        'browser'
+      ],
+      links: [
+        'https://youtu.be/wFLJARWVPlc'
+      ],
+      title: 'Jake Archibald - In The Loop',
+      description: ``
+    }
 
     
   ]
