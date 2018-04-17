@@ -63,7 +63,7 @@
         }
     }
     input:focus + .knowledge-base__circle::before {
-        background-color: #444;
+        border-color: #444;
     }
     input:checked ~ &__circle {
         background-color: #444;
