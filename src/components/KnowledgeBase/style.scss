@@ -22,7 +22,13 @@
         }
     }
     input {
-        display: none;
+        clip: rect(0 0 0 0);
+        height: 1px;
+        margin: -1px;
+        overflow: hidden;
+        padding: 0;
+        position: absolute;
+        width: 1px;
     }
     &__circle {
         position: absolute;
@@ -55,6 +61,9 @@
         &:active .knowledge-base__circle::before {
             transform: scale(1.1);
         }
+    }
+    input:focus + .knowledge-base__circle::before {
+        background-color: #444;
     }
     input:checked ~ &__circle {
         background-color: #444;
