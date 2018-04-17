@@ -323,8 +323,17 @@ export default {
       ],
       title: 'Jake Archibald - In The Loop',
       description: ``
+    },
+    {
+      date: '2018-04-17',
+      tags: [
+        'linux'
+      ],
+      links: [
+        'https://drawings.jvns.ca/file-descriptors/'
+      ],
+      title: 'File Descriptors',
+      description: ``
     }
-
-    
   ]
 };
