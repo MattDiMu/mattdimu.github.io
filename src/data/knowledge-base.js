@@ -360,7 +360,21 @@ export default {
                     Cunningham’s Law
                     Dunning-Kruger Effect
                     Miller’s Law`
+    },
+    {
+      date: '2018-04-19',
+      tags: [
+        'css',
+        'browser'
+      ],
+      links: [
+        'https://blog.logrocket.com/how-css-works-parsing-painting-css-in-the-critical-rendering-path-b3ee290762d3'
+      ],
+      title: 'Recap: Critical Rendering Path',
+      description: ``
     }
+    
+    
 
     
 
