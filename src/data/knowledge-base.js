@@ -334,7 +334,7 @@ export default {
       ],
       title: 'File Descriptors',
       description: ``
-    }
+    },
     {
       date: '2018-04-18',
       tags: [
@@ -345,9 +345,23 @@ export default {
       ],
       title: 'Network Layers',
       description: ``
+    },
+    {
+      date: '2018-04-19',
+      tags: [
+        'interesting'
+      ],
+      links: [
+        'https://daverupert.com/2018/04/eponymous-laws-of-tech/'
+      ],
+      title: 'tech-related laws, fallacies, and other wisdom',
+      description: `Bezos’ Two-Pizza Rule
+                    Brooks' Law
+                    Cunningham’s Law
+                    Dunning-Kruger Effect
+                    Miller’s Law`
     }
-    
-    
+
     
 
     
