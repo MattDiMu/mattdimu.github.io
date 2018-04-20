@@ -372,11 +372,18 @@ export default {
       ],
       title: 'Recap: Critical Rendering Path',
       description: ``
+    },
+    {
+      date: '2018-04-20',
+      tags: [
+        'linux'
+      ],
+      links: [
+        'https://drawings.jvns.ca/bashtips/'
+      ],
+      title: 'Bash (scripting) cheat sheet',
+      description: ``
     }
-    
-    
-
-    
 
     
   ]
