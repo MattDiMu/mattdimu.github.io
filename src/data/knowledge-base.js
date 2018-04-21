@@ -396,6 +396,19 @@ export default {
       ],
       title: 'Udacity Responsive Web Design fundamentals',
       description: ''
+    },
+    {
+      date: '2018-04-14',
+      tags: [
+        'js',
+        'css',
+        'browser'
+      ],
+      links: [
+        'https://eu.udacity.com/course/browser-rendering-optimization--ud860'
+      ],
+      title: 'Udacity Browser Rendering Optimization',
+      description: ''
     }
 
   ]
