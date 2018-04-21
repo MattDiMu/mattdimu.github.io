@@ -383,8 +383,20 @@ export default {
       ],
       title: 'Bash (scripting) cheat sheet',
       description: ''
+    },
+    {
+      date: '2018-04-21',
+      tags: [
+        'design',
+        'browser',
+        'css'
+      ],
+      links: [
+        'https://eu.udacity.com/course/responsive-web-design-fundamentals--ud893'
+      ],
+      title: 'Udacity Responsive Web Design fundamentals',
+      description: ''
     }
-
 
   ]
 };
