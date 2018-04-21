@@ -25,7 +25,7 @@ class Links extends React.Component {
             </a>
           </li>
           <li className="links__list-item">
-            <a href={`https://stackoverflow.com/users/3815374/mattdimu`} target="_blank" rel="noopener" ><span className="visuallyhidden">Stackoverflow</span>
+            <a href="https://stackoverflow.com/users/3815374/mattdimu" target="_blank" rel="noopener" ><span className="visuallyhidden">Stackoverflow</span> {/* eslint-disable-line */}
               <i className="icon-stackoverflow" />
             </a>
           </li>

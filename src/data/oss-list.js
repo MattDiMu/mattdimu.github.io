@@ -10,9 +10,9 @@ export default {
       tags: [
         'mail',
         'framework'
-      ,
+      ],
       title: 'mjml',
       desc: 'responsive email framework'
     }
   ]
-}
+};

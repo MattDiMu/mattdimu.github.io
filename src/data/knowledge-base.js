@@ -114,7 +114,7 @@ export default {
         'https://developers.google.com/web/updates/2015/12/getting-started-pwa'
       ],
       title: 'PWA Overview',
-      description: ``
+      description: ''
     },
 
     {
@@ -126,7 +126,7 @@ export default {
         'https://developers.google.com/web/updates/2018/03/smooshgate'
       ],
       title: 'The problem of extending native prototypes',
-      description: ``
+      description: ''
     },
     {
       date: '2018-04-08',
@@ -150,7 +150,7 @@ export default {
         'https://www.digitalocean.com/community/tutorials/how-to-use-systemctl-to-manage-systemd-services-and-units'
       ],
       title: 'Managing sytemd with systemctl',
-      description: ``
+      description: ''
     },
     {
       date: '2018-04-08',
@@ -192,7 +192,7 @@ export default {
         'https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Proxy'
       ],
       title: 'JavaScript Proxies',
-      description: `target (object), traps (intercepted operation) & handler (object containing all traps)`
+      description: 'target (object), traps (intercepted operation) & handler (object containing all traps)'
     },
     {
       date: '2018-04-10',
@@ -205,7 +205,7 @@ export default {
         'https://developer.mozilla.org/en-US/docs/Web/API/AbortController'
       ],
       title: 'A refresher on fetch API and the experimental AbortController',
-      description: ``
+      description: ''
     },
     {
       date: '2018-04-10',
@@ -217,7 +217,7 @@ export default {
         'https://developers.google.com/web/updates/2018/03/cssom'
       ],
       title: 'CSSOM vs CSS Typed Object Model',
-      description: ``
+      description: ''
     },
     {
       date: '2018-04-10',
@@ -228,7 +228,7 @@ export default {
         'https://pudding.cool/2018/02/waveforms/'
       ],
       title: 'An interactive explanation of (audio) waveforms',
-      description: ``
+      description: ''
     },
     {
       date: '2018-04-10',
@@ -240,7 +240,7 @@ export default {
         'https://hackernoon.com/its-a-focus-trap-699a04d66fb5'
       ],
       title: 'Focus Lock - a technique for accessible modal dialogs',
-      description: ``
+      description: ''
     },
     {
       date: '2018-04-11',
@@ -253,7 +253,7 @@ export default {
         'https://de.udacity.com/course/web-accessibility--ud891'
       ],
       title: 'Udacity Web Accessibility',
-      description: ``
+      description: ''
     },
     {
       date: '2018-04-11',
@@ -266,7 +266,7 @@ export default {
         'https://alistapart.com/article/going-offline'
       ],
       title: 'History of Service Workers',
-      description: `Same Origin & HTTPS Only (like geolocation, payments api or notifications api)`
+      description: 'Same Origin & HTTPS Only (like geolocation, payments api or notifications api)'
     },
     {
       date: '2018-04-13',
@@ -277,7 +277,7 @@ export default {
         'https://medium.com/google-developers/exploring-es7-decorators-76ecb65fb841'
       ],
       title: 'Recap of JavaScript/TypeScript Decorators',
-      description: ``
+      description: ''
     },
     {
       date: '2018-04-14',
@@ -288,7 +288,7 @@ export default {
         'https://www.youtube.com/watch?v=yk6wbvNPZW0'
       ],
       title: 'Visualising irrationality with triangular squares and other geometrical figures',
-      description: ``
+      description: ''
     },
     {
       date: '2018-04-15',
@@ -299,7 +299,7 @@ export default {
         'http://2ality.com/2017/08/promise-callback-data-flow.html'
       ],
       title: 'Passing data between Promise callbacks',
-      description: ``
+      description: ''
     },
     {
       date: '2018-04-16',
@@ -310,7 +310,7 @@ export default {
         'https://drawings.jvns.ca/proc/'
       ],
       title: 'About the /proc directory',
-      description: ``
+      description: ''
     },
     {
       date: '2018-04-17',
@@ -322,7 +322,7 @@ export default {
         'https://youtu.be/wFLJARWVPlc'
       ],
       title: 'Jake Archibald - In The Loop',
-      description: ``
+      description: ''
     },
     {
       date: '2018-04-17',
@@ -333,7 +333,7 @@ export default {
         'https://drawings.jvns.ca/file-descriptors/'
       ],
       title: 'File Descriptors',
-      description: ``
+      description: ''
     },
     {
       date: '2018-04-18',
@@ -344,7 +344,7 @@ export default {
         'https://drawings.jvns.ca/layers/'
       ],
       title: 'Network Layers',
-      description: ``
+      description: ''
     },
     {
       date: '2018-04-19',
@@ -371,7 +371,7 @@ export default {
         'https://blog.logrocket.com/how-css-works-parsing-painting-css-in-the-critical-rendering-path-b3ee290762d3'
       ],
       title: 'Recap: Critical Rendering Path',
-      description: ``
+      description: ''
     },
     {
       date: '2018-04-20',
@@ -382,9 +382,9 @@ export default {
         'https://drawings.jvns.ca/bashtips/'
       ],
       title: 'Bash (scripting) cheat sheet',
-      description: ``
+      description: ''
     }
 
-    
+
   ]
 };
