@@ -402,7 +402,9 @@ export default {
       tags: [
         'js',
         'css',
-        'browser'
+        'browser',
+        'network',
+        'performance'
       ],
       links: [
         'https://eu.udacity.com/course/browser-rendering-optimization--ud860'
@@ -413,3 +415,6 @@ export default {
 
   ]
 };
+
+
+
