@@ -27,7 +27,7 @@ export default {
       title: 'Udacity Web Performance Optimization',
       description: ''
     }
-            
+
 
   ]
 };
