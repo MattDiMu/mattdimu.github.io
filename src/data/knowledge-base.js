@@ -411,7 +411,20 @@ export default {
       ],
       title: 'Udacity Browser Rendering Optimization',
       description: ''
-    }
+    },
+    {
+      date: '2018-04-23',
+      tags: [
+        'js'
+      ],
+      links: [
+        'https://www.youtube.com/watch?v=QOnUcU8U_XE'
+      ],
+      title: 'Excellent explanation of generators in JavaScript',
+      description: ''
+    },
+    
+    
 
   ]
 };
