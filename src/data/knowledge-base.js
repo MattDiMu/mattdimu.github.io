@@ -423,6 +423,19 @@ export default {
       title: 'Excellent explanation of generators in JavaScript',
       description: ''
     },
+    {
+      date: '2018-04-25',
+      tags: [
+        'cs',
+        'interesting'
+      ],
+      links: [
+        'https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi'
+      ],
+      title: 'Playlist Neural Networks',
+      description: 'neuron, multiple lines for patterns/subcomponents, backpropagation, lines = weight, which neuron affects the weighted sum most?, local minimum, huge learning data, good recognition, bad for creation'
+    },  
+    
     
     
 
