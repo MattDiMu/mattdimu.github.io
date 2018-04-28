@@ -435,8 +435,17 @@ export default {
       title: 'Playlist Neural Networks',
       description: 'neuron, multiple lines for patterns/subcomponents, backpropagation, lines = weight, which neuron affects the weighted sum most?, local minimum, huge learning data, good recognition, bad for creation'
     },  
-    
-    
+    {
+      date: '2018-04-28',
+      tags: [
+        'javascript'
+      ],
+      links: [
+        'https://youtu.be/W4brAobC2Hc'
+      ],
+      title: 'Iterators in JavaScript',
+      description: ''
+    },  
     
 
   ]
