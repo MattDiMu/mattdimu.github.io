@@ -446,8 +446,24 @@ export default {
       title: 'Iterators in JavaScript',
       description: ''
     },  
+    {
+      date: '2018-04-30',
+      tags: [
+        'cs'
+      ],
+      links: [
+        'https://dev.to/vaidehijoshi/whats-a-linked-list-anyway',
+        'https://dev.to/vaidehijoshi/whats-a-linked-list-anyway-part-2'
+      ],
+      title: 'How Linked Lists work under the hood',
+      description: ''
+    },  
+    
     
 
+    
+    
+    
   ]
 };
 
