@@ -457,7 +457,20 @@ export default {
       ],
       title: 'How Linked Lists work under the hood',
       description: ''
+    },
+    {
+      date: '2018-05-01',
+      tags: [
+        'javascript',
+        'browser'
+      ],
+      links: [
+        'https://www.rainerhahnekamp.com/en/javascript-essentials-the-engine/'
+      ],
+      title: 'Inline Caching in V8',
+      description: ''
     }
+
 
   ]
 };
