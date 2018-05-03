@@ -469,9 +469,18 @@ export default {
       ],
       title: 'Inline Caching in V8',
       description: ''
+    },
+    {
+      date: '2018-05-03',
+      tags: [
+        'javascript'
+      ],
+      links: [
+        'http://2ality.com/2018/04/async-iter-nodejs.html'
+      ],
+      title: 'Async iteration in node.js',
+      description: ''
     }
-
-
   ]
 };
 
