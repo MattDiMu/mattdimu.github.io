@@ -480,7 +480,21 @@ export default {
       ],
       title: 'Async iteration in node.js',
       description: ''
+    },
+    {
+      date: '2018-05-04',
+      tags: [
+        'cs',
+        'network',
+        'javascript'
+      ],
+      links: [
+        'https://medium.com/@wedekind.kai/rest-in-peace-long-live-graphql-f53e269c466d'
+      ],
+      title: 'GraphQL Recap',
+      description: ''
     }
+    
   ]
 };
 
