@@ -493,8 +493,18 @@ export default {
       ],
       title: 'GraphQL Recap',
       description: ''
+    },
+    {
+      date: '2018-05-08',
+      tags: [
+        'cs'
+      ],
+      links: [
+        'https://dev.to/supermanitu/what-does-big-o-notation-mean-anyway--1hea'
+      ],
+      title: 'Recap Big O Notation - Landau-Symbole',
+      description: ''
     }
-    
   ]
 };
 
