@@ -504,7 +504,18 @@ export default {
       ],
       title: 'Recap Big O Notation - Landau-Symbole',
       description: ''
-    }
+    },
+    {
+      date: '2018-05-09',
+      tags: [
+        'javascript'
+      ],
+      links: [
+        'http://2ality.com/2018/05/child-process-streams.html'
+      ],
+      title: 'Async messaging with child processes in node.js',
+      description: ''
+    } 
   ]
 };
 
