@@ -515,7 +515,22 @@ export default {
       ],
       title: 'Async messaging with child processes in node.js',
       description: ''
-    } 
+    }
+    {
+      date: '2018-05-12',
+      tags: [
+        'interesting'
+      ],
+      links: [
+        'https://www.youtube.com/watch?v=ubHVK71F01M'
+      ],
+      title: 'Golden Ratio spirals visualized',
+      description: ''
+    }
+    
+    
+    
+    
   ]
 };
 
