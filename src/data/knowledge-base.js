@@ -515,7 +515,7 @@ export default {
       ],
       title: 'Async messaging with child processes in node.js',
       description: ''
-    }
+    },
     {
       date: '2018-05-12',
       tags: [
@@ -527,10 +527,6 @@ export default {
       title: 'Golden Ratio spirals visualized',
       description: ''
     }
-    
-    
-    
-    
   ]
 };
 
