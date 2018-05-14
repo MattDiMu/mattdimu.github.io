@@ -536,11 +536,25 @@ export default {
       links: [
         'https://medium.com/basecs/stacks-and-overflows-dbcf7854dc67'
       ],
-      title: 'Stacks and Overflows',
-      description: `LIFO principle, time complexity O(1) for adding/removing elements
-                    often implemented as singly linked lists
+      title: 'Recap: Stacks and Overflows',
+      description: `LIFO principle, often implemented as singly linked lists,
+                    => time complexity O(1) for adding/removing elements,
                     call stack consists of stack frames (e.g. for each functions)`
-    }    
+    },
+    {
+      date: '2018-05-14',
+      tags: [
+        'cs',
+        'javascript'
+      ],
+      links: [
+        'https://dev.to/vaidehijoshi/to-queue-or-not-to-queue'
+      ],
+      title: 'Recap: Queues',
+      description: `FIFO principle, often implemented as linked lists, 
+                    => enqueuing & dequeuing time complexity of O(1)
+                    multilevel priority queue`
+    }
   ]
 };
 
