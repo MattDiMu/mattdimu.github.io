@@ -526,7 +526,20 @@ export default {
       ],
       title: 'Golden Ratio spirals visualized',
       description: ''
-    }
+    },
+    {
+      date: '2018-05-14',
+      tags: [
+        'cs'
+      ],
+      links: [
+        'https://medium.com/basecs/stacks-and-overflows-dbcf7854dc67'
+      ],
+      title: 'Stacks and Overflows',
+      description: `LIFO principle, time complexity O(1) for adding/removing elements
+                    often implemented as singly linked lists
+                    call stack consists of stack frames (e.g. for each functions)`
+    }    
   ]
 };
 
