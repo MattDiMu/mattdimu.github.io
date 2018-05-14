@@ -530,7 +530,8 @@ export default {
     {
       date: '2018-05-14',
       tags: [
-        'cs'
+        'cs',
+        'javascript'
       ],
       links: [
         'https://medium.com/basecs/stacks-and-overflows-dbcf7854dc67'
