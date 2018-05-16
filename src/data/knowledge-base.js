@@ -554,6 +554,18 @@ export default {
       description: `FIFO principle, often implemented as linked lists, 
                     => enqueuing & dequeuing time complexity of O(1)
                     multilevel priority queue`
+    },
+    {
+      date: '2018-05-16',
+      tags: [
+        'java'
+      ],
+      links: [
+        'https://www.journaldev.com/349/java-classloader'
+      ],
+      title: 'Java Classloader',
+      description: `Bootstrap Class Loader (class.getClassLoader() = null) > Extensions Class Loader > System Class Loader
+classes have only access to classes loaded by same or parent class loaders, not by sibling class loaders`
     }
   ]
 };
