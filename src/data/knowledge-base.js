@@ -566,6 +566,17 @@ export default {
       title: 'Java Classloader',
       description: `Bootstrap Class Loader (class.getClassLoader() = null) > Extensions Class Loader > System Class Loader
 classes have only access to classes loaded by same or parent class loaders, not by sibling class loaders`
+    },
+    {
+      date: '2018-05-17',
+      tags: [
+        'interesting'
+      ],
+      links: [
+        'https://www.youtube.com/watch?v=p-0SOWbzUYI'
+      ],
+      title: 'Pythagorean theorem proofs',
+      description: ``
     }
   ]
 };
