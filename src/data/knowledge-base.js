@@ -577,6 +577,17 @@ classes have only access to classes loaded by same or parent class loaders, not 
       ],
       title: 'Pythagorean theorem proofs',
       description: ``
+    },
+    {
+      date: '2018-05-1',
+      tags: [
+        'interesting'
+      ],
+      links: [
+        'https://www.youtube.com/watch?v=YuIIjLr6vUA'
+      ],
+      title: 'Why 1+2+3+... != -1/12',
+      description: ``
     }
   ]
 };
