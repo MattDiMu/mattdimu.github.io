@@ -579,7 +579,7 @@ classes have only access to classes loaded by same or parent class loaders, not 
       description: ``
     },
     {
-      date: '2018-05-1',
+      date: '2018-05-19',
       tags: [
         'interesting'
       ],
@@ -587,6 +587,17 @@ classes have only access to classes loaded by same or parent class loaders, not 
         'https://www.youtube.com/watch?v=YuIIjLr6vUA'
       ],
       title: 'Why 1+2+3+... != -1/12',
+      description: ``
+    },
+    {
+      date: '2018-05-21',
+      tags: [
+        'javascript'
+      ],
+      links: [
+        'https://www.youtube.com/watch?v=wrI-Jb0oFyk'
+      ],
+      title: 'Async generators in JavaScript',
       description: ``
     }
   ]
