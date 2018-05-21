@@ -599,7 +599,23 @@ classes have only access to classes loaded by same or parent class loaders, not 
       ],
       title: 'Async generators in JavaScript',
       description: ``
+    },
+    {
+      date: '2018-05-21',
+      tags: [
+        'interesting',
+        'security',
+        'java'
+      ],
+      links: [
+        'https://media.ccc.de/v/34c3-8805-die_fabelhafte_welt_des_mobilebankings#t=1'
+      ],
+      title: '2FA, App App Hardening and mobile Onlinebanking',
+      description: ``
     }
+    
+    
+    
   ]
 };
 
