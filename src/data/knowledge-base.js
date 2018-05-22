@@ -612,10 +612,18 @@ classes have only access to classes loaded by same or parent class loaders, not 
       ],
       title: '2FA, App App Hardening and mobile Onlinebanking',
       description: ``
+    },
+    {
+      date: '2018-05-22',
+      tags: [
+        'javascript'
+      ],
+      links: [
+        'https://www.youtube.com/watch?v=I5oDbp_U-fQ'
+      ],
+      title: 'Async iterators (for await ... of) in JavaScript',
+      description: ``
     }
-    
-    
-    
   ]
 };
 
