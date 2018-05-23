@@ -669,9 +669,9 @@ classes have only access to classes loaded by same or parent class loaders, not 
         'https://www.youtube.com/watch?v=mxzK4sWfvH8'
       ],
       title: 'How Psychology influences UIs',
-      description: ``
-    }    
-    
+      description: `users have a bad self-rating: they are distracted, prefer few choices (Hick's Law)
+we should try to reduce cognitive load, unlock pin = more declarative, unlock pattern = more procedural/sequential (less cognitive load)`
+    }
   ]
 };
 
