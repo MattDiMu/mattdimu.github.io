@@ -635,7 +635,20 @@ classes have only access to classes loaded by same or parent class loaders, not 
       ],
       title: 'RefactoringUi design tricks',
       description: ``
-    }
+    },
+    {
+      date: '2018-05-23',
+      tags: [
+        'security',
+        'javascript',
+        'browser'
+      ],
+      links: [
+        'https://dev.to/rdegges/please-stop-using-local-storage-1i04'
+      ],
+      title: 'Risks when using localStorage',
+      description: ``
+    }    
   ]
 };
 
