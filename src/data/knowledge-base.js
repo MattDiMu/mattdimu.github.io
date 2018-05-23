@@ -341,7 +341,8 @@ export default {
         'network'
       ],
       links: [
-        'https://drawings.jvns.ca/layers/'
+        'https://drawings.jvns.ca/layers/',
+        'https://en.wikipedia.org/wiki/OSI_model'
       ],
       title: 'Network Layers',
       description: ''
