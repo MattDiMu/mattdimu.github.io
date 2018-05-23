@@ -659,7 +659,19 @@ classes have only access to classes loaded by same or parent class loaders, not 
       ],
       title: 'Programming Language Design Thoughts by Douglas Crockford',
       description: ``
-    } 
+    },
+    {
+      date: '2018-05-23',
+      tags: [
+        'ux'
+      ],
+      links: [
+        'https://www.youtube.com/watch?v=mxzK4sWfvH8'
+      ],
+      title: 'How Psychology influences UIs',
+      description: ``
+    }    
+    
   ]
 };
 
