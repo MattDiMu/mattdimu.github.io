@@ -648,7 +648,18 @@ classes have only access to classes loaded by same or parent class loaders, not 
       ],
       title: 'Risks when using localStorage',
       description: ``
-    }    
+    },
+    {
+      date: '2018-05-23',
+      tags: [
+        'cs'
+      ],
+      links: [
+        'https://www.youtube.com/watch?v=MBWAP_8zxaM'
+      ],
+      title: 'Programming Language Design Thoughts by Douglas Crockford',
+      description: ``
+    } 
   ]
 };
 
