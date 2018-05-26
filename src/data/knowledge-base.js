@@ -694,6 +694,5 @@ we should try to reduce cognitive load, unlock pin = more declarative, unlock pa
       title: 'Code Refactoring Recommendations',
       description: ``
     }    
-    
   ]
 };
