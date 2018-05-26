@@ -682,6 +682,18 @@ we should try to reduce cognitive load, unlock pin = more declarative, unlock pa
       ],
       title: 'How Psychology influences UIs',
       description: `Recap: Basic Design Rules`
-    }
+    },
+    {
+      date: '2018-05-26',
+      tags: [
+        'cs'
+      ],
+      links: [
+        'https://www.youtube.com/watch?v=D4auWwMsEnY'
+      ],
+      title: 'Code Refactoring Recommendations',
+      description: ``
+    }    
+    
   ]
 };
