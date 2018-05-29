@@ -693,6 +693,17 @@ we should try to reduce cognitive load, unlock pin = more declarative, unlock pa
       ],
       title: 'Code Refactoring Recommendations',
       description: ``
-    }    
+    },
+    {
+      date: '2018-05-29',
+      tags: [
+        'interesting'
+      ],
+      links: [
+        'https://en.wikipedia.org/wiki/Simpson%27s_paradox'
+      ],
+      title: 'Simpson\'s paradox',
+      description: ``
+    }
   ]
 };
