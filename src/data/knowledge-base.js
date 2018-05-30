@@ -704,6 +704,18 @@ we should try to reduce cognitive load, unlock pin = more declarative, unlock pa
       ],
       title: 'Simpson\'s paradox',
       description: ``
+    },
+    {
+      date: '2018-05-30',
+      tags: [
+        'browser',
+        'performance'
+      ],
+      links: [
+        'https://developers.google.com/web/fundamentals/performance/rendering/avoid-large-complex-layouts-and-layout-thrashing#avoid_forced_synchronous_layouts'
+      ],
+      title: 'Forced Synchronous Layouts & Layout Thrashing',
+      description: ``
     }
   ]
 };
