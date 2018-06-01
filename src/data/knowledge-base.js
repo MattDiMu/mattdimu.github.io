@@ -716,6 +716,18 @@ we should try to reduce cognitive load, unlock pin = more declarative, unlock pa
       ],
       title: 'Forced Synchronous Layouts & Layout Thrashing',
       description: ``
+    },
+    {
+      date: '2018-06-01',
+      tags: [
+        'java',
+        'cs'
+      ],
+      links: [
+        'https://docs.spring.io/spring/docs/4.3.15.RELEASE/spring-framework-reference/html/aop.html#aop-introduction-defn'
+      ],
+      title: 'Aspect Oriented Programming Definitions',
+      description: ``
     }
   ]
 };
