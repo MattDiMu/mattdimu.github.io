@@ -728,6 +728,17 @@ we should try to reduce cognitive load, unlock pin = more declarative, unlock pa
       ],
       title: 'Aspect Oriented Programming Definitions',
       description: ``
+    },
+    {
+      date: '2018-06-04',
+      tags: [
+        'cs'
+      ],
+      links: [
+        'https://dev.to/vaidehijoshi/a-gentle-introduction-to-graph-theory'
+      ],
+      title: 'Recap: Graph Theory',
+      description: ``
     }
   ]
 };
