@@ -739,6 +739,18 @@ we should try to reduce cognitive load, unlock pin = more declarative, unlock pa
       ],
       title: 'Recap: Graph Theory',
       description: ``
+    },
+    {
+      date: '2018-06-05',
+      tags: [
+        'browser',
+        'performance'
+      ],
+      links: [
+        'https://csswizardry.com/2017/07/performance-and-resilience-stress-testing-third-parties/'
+      ],
+      title: 'Stress-Testing 3rd party dependencies in the browser',
+      description: ``
     }
   ]
 };
