@@ -751,6 +751,18 @@ we should try to reduce cognitive load, unlock pin = more declarative, unlock pa
       ],
       title: 'Stress-Testing 3rd party dependencies in the browser',
       description: ``
+    },
+    {
+      date: '2018-06-06',
+      tags: [
+        'browser',
+        'javascript'
+      ],
+      links: [
+        'https://kryogenix.org/code/browser/everyonehasjs.html'
+      ],
+      title: 'Illustration why JavaScript might not work for everyone',
+      description: ``
     }
   ]
 };
