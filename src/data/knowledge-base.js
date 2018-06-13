@@ -1,6 +1,7 @@
 export default {
   availableTags: {
     java: 'Java & JVM',
+    spring: 'Spring',
     magnolia: 'Magnolia',
     browser: 'Browser',
     javascript: 'JavaScript',
@@ -779,10 +780,12 @@ we should try to reduce cognitive load, unlock pin = more declarative, unlock pa
     {
       date: '2018-06-13',
       tags: [
-        'java'
+        'java',
+        'spring'
       ],
       links: [
-        'https://www.journaldev.com/21460/spring-repository-annotation'
+        'https://www.journaldev.com/21460/spring-repository-annotation',
+        'https://www.journaldev.com/21448/spring-value-annotation'
       ],
       title: 'Useful Spring Boot Annotations',
       description: ``
