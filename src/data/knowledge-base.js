@@ -785,7 +785,7 @@ we should try to reduce cognitive load, unlock pin = more declarative, unlock pa
       ],
       links: [
         'https://www.journaldev.com/21429/spring-component',
-        'https://www.journaldev.com/21435/spring-service-annotation'
+        'https://www.journaldev.com/21435/spring-service-annotation',
         'https://www.journaldev.com/21460/spring-repository-annotation',
         'https://www.journaldev.com/14476/spring-mvc-example#spring-mvc-controller-class'
       ],
