@@ -775,6 +775,17 @@ we should try to reduce cognitive load, unlock pin = more declarative, unlock pa
       ],
       title: 'Tips for web scraping with headless chrome',
       description: ``
+    },
+    {
+      date: '2018-06-13',
+      tags: [
+        'java'
+      ],
+      links: [
+        'https://www.journaldev.com/21460/spring-repository-annotation'
+      ],
+      title: 'Useful Spring Boot Annotations',
+      description: ``
     }
   ]
 };
