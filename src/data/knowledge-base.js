@@ -763,6 +763,18 @@ we should try to reduce cognitive load, unlock pin = more declarative, unlock pa
       ],
       title: 'Illustration why JavaScript might not work for everyone',
       description: ``
+    },
+    {
+      date: '2018-06-13',
+      tags: [
+        'browser',
+        'javascript'
+      ],
+      links: [
+        'https://blog.phantombuster.com/web-scraping-in-2017-headless-chrome-tips-tricks-4d6521d695e8'
+      ],
+      title: 'Tips for web scraping with headless chrome',
+      description: ``
     }
   ]
 };
