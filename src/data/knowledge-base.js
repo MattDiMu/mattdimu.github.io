@@ -784,9 +784,12 @@ we should try to reduce cognitive load, unlock pin = more declarative, unlock pa
         'spring'
       ],
       links: [
+        'https://www.journaldev.com/21429/spring-component',
+        'https://www.journaldev.com/21435/spring-service-annotation'
         'https://www.journaldev.com/21460/spring-repository-annotation',
+        'https://www.journaldev.com/14476/spring-mvc-example#spring-mvc-controller-class'
       ],
-      title: 'Spring Boot @Repository Annotation',
+      title: 'Spring Boot @Component and specialized @Service, @Repository and @Controller annotations',
       description: ``
     },
     {
