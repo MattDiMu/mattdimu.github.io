@@ -816,6 +816,18 @@ we should try to reduce cognitive load, unlock pin = more declarative, unlock pa
       ],
       title: 'How and when browsers download images',
       description: ``
+    },
+    {
+      date: '2018-06-13',
+      tags: [
+        'java',
+        'spring'
+      ],
+      links: [
+        'https://www.youtube.com/watch?v=Sw7I70vjN0E',
+      ],
+      title: 'Spring boot annotation magic demystified',
+      description: ``
     }
   ]
 };
