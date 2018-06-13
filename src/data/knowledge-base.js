@@ -803,6 +803,19 @@ we should try to reduce cognitive load, unlock pin = more declarative, unlock pa
       ],
       title: 'Spring Boot @PropertySource and @Value annotations',
       description: ``
-    }    
+    },
+    {
+      date: '2018-06-13',
+      tags: [
+        'css',
+        'browser',
+        'performance'
+      ],
+      links: [
+        'https://csswizardry.com/2018/06/image-inconsistencies-how-and-when-browsers-download-images/',
+      ],
+      title: 'How and when browsers download images',
+      description: ``
+    }
   ]
 };
