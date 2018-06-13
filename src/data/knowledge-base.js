@@ -785,10 +785,21 @@ we should try to reduce cognitive load, unlock pin = more declarative, unlock pa
       ],
       links: [
         'https://www.journaldev.com/21460/spring-repository-annotation',
-        'https://www.journaldev.com/21448/spring-value-annotation'
       ],
-      title: 'Useful Spring Boot Annotations',
+      title: 'Spring Boot @Repository Annotation',
       description: ``
-    }
+    },
+    {
+      date: '2018-06-13',
+      tags: [
+        'java',
+        'spring'
+      ],
+      links: [
+        'http://www.baeldung.com/properties-with-spring',
+      ],
+      title: 'Spring Boot @PropertySource and @Value annotations',
+      description: ``
+    }    
   ]
 };
