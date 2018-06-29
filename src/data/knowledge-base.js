@@ -828,6 +828,19 @@ we should try to reduce cognitive load, unlock pin = more declarative, unlock pa
       ],
       title: 'Spring boot annotation magic demystified',
       description: ``
-    }
+    },
+    {
+      date: '2018-06-29',
+      tags: [
+        'css'
+      ],
+      links: [
+        'https://meyerweb.com/eric/thoughts/2018/06/28/what-is-the-css-ch-unit/',
+      ],
+      title: 'ch unit in css',
+      description: `60ch ~ 80 characters`
+    }    
+    
+    
   ]
 };
