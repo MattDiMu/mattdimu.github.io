@@ -839,8 +839,17 @@ we should try to reduce cognitive load, unlock pin = more declarative, unlock pa
       ],
       title: 'ch unit in css',
       description: `60ch ~ 80 characters`
-    }    
-    
-    
+    },
+    {
+      date: '2018-07-02',
+      tags: [
+        'java'
+      ],
+      links: [
+        'https://www.javacodegeeks.com/2018/06/java-8-language-features-nutshell-part-1.html',
+      ],
+      title: 'Functional Interfaces, Lambda expressions & Default Methods',
+      description: ``
+    }
   ]
 };
