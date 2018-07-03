@@ -850,6 +850,17 @@ we should try to reduce cognitive load, unlock pin = more declarative, unlock pa
       ],
       title: 'Functional Interfaces, Lambda expressions & Default Methods',
       description: ``
+    },
+    {
+      date: '2018-07-03',
+      tags: [
+        'java'
+      ],
+      links: [
+        'https://www.javacodegeeks.com/2018/07/java-8-language-features-part-2.html',
+      ],
+      title: 'Static methods in Interfaces & Streams',
+      description: ``
     }
   ]
 };
