@@ -861,6 +861,19 @@ we should try to reduce cognitive load, unlock pin = more declarative, unlock pa
       ],
       title: 'Static methods in Interfaces & Streams',
       description: ``
-    }
+    },
+    {
+      date: '2018-07-04',
+      tags: [
+        'network'
+      ],
+      links: [
+        'https://blog.envoyproxy.io/introduction-to-modern-network-load-balancing-and-proxying-a57f6ff80236',
+      ],
+      title: `L4 vs L7
+              Active vs Passive Health Checking, Loadbalancing, Sticky Sessions (fragile), TLS termination, Observability, DoS mitigation, Tarpitting & Security, 
+              topologies: middle prox & edge proxy, embedded client library, sidecar proxy / service mesh`,
+      description: ``
+    }    
   ]
 };
