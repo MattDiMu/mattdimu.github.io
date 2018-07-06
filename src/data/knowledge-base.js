@@ -886,7 +886,18 @@ we should try to reduce cognitive load, unlock pin = more declarative, unlock pa
       ],
       title: `Common bash tips`,
       description: ``
+    },
+    {
+      date: '2018-07-06',
+      tags: [
+        'ux',
+        'ui'
+      ],
+      links: [
+        'https://www.theverge.com/2013/8/29/4640308/dark-patterns-inside-the-interfaces-designed-to-trick-you',
+      ],
+      title: `Dark Pattern in UIs`,
+      description: `trick questions, forced continuity, misdirection`
     }
-    
   ]
 };
