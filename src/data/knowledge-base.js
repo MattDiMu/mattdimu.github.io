@@ -19,7 +19,8 @@ export default {
     mail: 'E-Mail',
     mathematics: 'Mathematics',
     organization: 'Organization',
-    interesting: 'Interesting Stuff'
+    interesting: 'Interesting Stuff',
+    shell: 'Shell'
   },
   entries: [
     {
@@ -874,6 +875,18 @@ we should try to reduce cognitive load, unlock pin = more declarative, unlock pa
               Active vs Passive Health Checking, Loadbalancing, Sticky Sessions (fragile), TLS termination, Observability, DoS mitigation, Tarpitting & Security, 
               topologies: middle prox & edge proxy, embedded client library, sidecar proxy / service mesh`,
       description: ``
-    }    
+    },
+    {
+      date: '2018-07-06',
+      tags: [
+        'shell'
+      ],
+      links: [
+        'https://drawings.jvns.ca/bashtips/',
+      ],
+      title: `Common bash tips`,
+      description: ``
+    }
+    
   ]
 };
