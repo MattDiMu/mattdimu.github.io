@@ -898,6 +898,17 @@ we should try to reduce cognitive load, unlock pin = more declarative, unlock pa
       ],
       title: `Dark Pattern in UIs`,
       description: `trick questions, forced continuity, misdirection`
-    }
+    },
+    {
+      date: '2018-07-09',
+      tags: [
+        'java'
+      ],
+      links: [
+        'http://www.baeldung.com/java-in-2018',
+      ],
+      title: `State of Java 2018`,
+      description: ``
+    }    
   ]
 };
