@@ -909,6 +909,17 @@ we should try to reduce cognitive load, unlock pin = more declarative, unlock pa
       ],
       title: `State of Java 2018`,
       description: ``
-    }    
+    },
+    {
+      date: '2018-07-10',
+      tags: [
+        'cs'
+      ],
+      links: [
+        'https://dev.to/trekhleb/dynamic-programming-vs-divide-and-conquer-218i',
+      ],
+      title: `Dynamic Programming vs Divide and Conquer`,
+      description: ``
+    }
   ]
 };
