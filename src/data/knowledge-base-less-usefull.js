@@ -26,8 +26,18 @@ export default {
       ],
       title: 'Udacity Web Performance Optimization',
       description: ''
+    },
+    {
+      date: '2018-07-10',
+      tags: [
+        'browser',
+        'security'
+      ],
+      links: [
+        'https://jakearchibald.com/2018/i-discovered-a-browser-bug/'
+      ],
+      title: 'Browser bug handling',
+      description: ''
     }
-
-
   ]
 };
