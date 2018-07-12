@@ -943,6 +943,17 @@ we should try to reduce cognitive load, unlock pin = more declarative, unlock pa
       ],
       title: `Checks for range of values.`,
       description: `Collections.unmodifiableSet(new HashSet(Arrays.asList(xx,yy,zz)))`
-    }    
+    },
+    {
+      date: '2018-07-12',
+      tags: [
+        'java'
+      ],
+      links: [
+        'http://www.baeldung.com/java-classloaders',
+      ],
+      title: `Java Classloaders`,
+      description: ``
+    }
   ]
 };
