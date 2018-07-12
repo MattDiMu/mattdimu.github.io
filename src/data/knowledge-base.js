@@ -920,6 +920,18 @@ we should try to reduce cognitive load, unlock pin = more declarative, unlock pa
       ],
       title: `Dynamic Programming vs Divide and Conquer`,
       description: ``
+    },
+    {
+      date: '2018-07-10',
+      tags: [
+        'css',
+        'browser'
+      ],
+      links: [
+        'https://codepen.io/MattDiMu/pen/LBVpjm',
+      ],
+      title: `A lesson in browser standards: The single <div>, that looks different everywhere.`,
+      description: ``
     }
   ]
 };
