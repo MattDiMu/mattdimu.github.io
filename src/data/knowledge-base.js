@@ -932,6 +932,17 @@ we should try to reduce cognitive load, unlock pin = more declarative, unlock pa
       ],
       title: `A lesson in browser standards: The single <div>, that looks different everywhere.`,
       description: ``
-    }
+    },
+    {
+      date: '2018-07-12',
+      tags: [
+        'java'
+      ],
+      links: [
+        'https://www.javacodegeeks.com/2018/07/fixing-if-smell.html',
+      ],
+      title: `Checks for range of values.`,
+      description: `Collections.unmodifiableSet(new HashSet(Arrays.asList(xx,yy,zz)))`
+    }    
   ]
 };
