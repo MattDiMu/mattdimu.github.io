@@ -976,6 +976,17 @@ we should try to reduce cognitive load, unlock pin = more declarative, unlock pa
       ],
       title: `Memoization in a nutshell`,
       description: ``
-    }    
+    },
+    {
+      date: '2018-07-17',
+      tags: [
+        'java'
+      ],
+      links: [
+        'https://dzone.com/articles/how-to-change-private-static-final-fields',
+      ],
+      title: `Changing (hacking) private static final fields in unit tests`,
+      description: ``
+    }
   ]
 };
