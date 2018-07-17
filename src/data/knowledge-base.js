@@ -956,6 +956,17 @@ we should try to reduce cognitive load, unlock pin = more declarative, unlock pa
       description: ``
     },
     {
+      date: '2018-07-15',
+      tags: [
+        'cs'
+      ],
+      links: [
+        'https://en.wikipedia.org/wiki/SOLID',
+      ],
+      title: `SOLID principles in OOP`,
+      description: ``
+    },
+    {
       date: '2018-07-17',
       tags: [
         'ux'
