@@ -954,6 +954,17 @@ we should try to reduce cognitive load, unlock pin = more declarative, unlock pa
       ],
       title: `Java Classloaders`,
       description: ``
+    },
+    {
+      date: '2018-07-17',
+      tags: [
+        'ux'
+      ],
+      links: [
+        'https://www.w3.org/TR/html5/sec-forms.html#autofilling-form-controls-the-autocomplete-attribute',
+      ],
+      title: `Html Autocomplete attribute`,
+      description: ``
     }
   ]
 };
