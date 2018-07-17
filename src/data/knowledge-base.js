@@ -967,6 +967,17 @@ we should try to reduce cognitive load, unlock pin = more declarative, unlock pa
       description: ``
     },
     {
+      date: '2018-07-16',
+      tags: [
+        'java'
+      ],
+      links: [
+        'http://www.baeldung.com/javax-validation',
+      ],
+      title: `Java Bean validation - jsr380`,
+      description: ``
+    },
+    {
       date: '2018-07-17',
       tags: [
         'ux'
