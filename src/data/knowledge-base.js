@@ -965,6 +965,17 @@ we should try to reduce cognitive load, unlock pin = more declarative, unlock pa
       ],
       title: `Html Autocomplete attribute`,
       description: ``
-    }
+    },
+    {
+      date: '2018-07-17',
+      tags: [
+        'cs'
+      ],
+      links: [
+        'https://dev.to/pieohpah/memoization-in-a-nutshell-5072',
+      ],
+      title: `Memoization in a nutshell`,
+      description: ``
+    }    
   ]
 };
