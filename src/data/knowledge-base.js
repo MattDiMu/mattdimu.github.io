@@ -1032,6 +1032,17 @@ we should try to reduce cognitive load, unlock pin = more declarative, unlock pa
       ],
       title: `Design Patterns Interview Questions`,
       description: ``
+    },
+    {
+      date: '2018-07-19',
+      tags: [
+        'java'
+      ],
+      links: [
+        'https://www.javacodegeeks.com/2018/04/jvm-architecture-overview-of-jvm-and-jvm-architecture.html',
+      ],
+      title: `JVM Architecture & Components`,
+      description: ``
     }
   ]
 };
