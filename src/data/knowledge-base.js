@@ -1021,6 +1021,17 @@ we should try to reduce cognitive load, unlock pin = more declarative, unlock pa
       ],
       title: `CSS Selector Peformance Update 2018`,
       description: ``
+    },
+    {
+      date: '2018-07-18',
+      tags: [
+        'cs'
+      ],
+      links: [
+        'https://dev.to/aershov24/9-unusual-design-patterns-interview-question-with-answers-3gjl',
+      ],
+      title: `Design Patterns Interview Questions`,
+      description: ``
     }
   ]
 };
