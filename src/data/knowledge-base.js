@@ -1009,6 +1009,18 @@ we should try to reduce cognitive load, unlock pin = more declarative, unlock pa
       ],
       title: `Changing (hacking) private static final fields in unit tests`,
       description: ``
+    },
+    {
+      date: '2018-07-18',
+      tags: [
+        'css',
+        'performance'
+      ],
+      links: [
+        'https://www.sitepoint.com/optimizing-css-id-selectors-and-other-myths/',
+      ],
+      title: `CSS Selector Peformance Update 2018`,
+      description: ``
     }
   ]
 };
