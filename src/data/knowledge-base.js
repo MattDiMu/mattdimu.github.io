@@ -1043,6 +1043,17 @@ we should try to reduce cognitive load, unlock pin = more declarative, unlock pa
       ],
       title: `JVM Architecture & Components`,
       description: ``
+    },
+    {
+      date: '2018-07-24',
+      tags: [
+        'browser'
+      ],
+      links: [
+        'https://scotthelme.co.uk/a-new-security-header-feature-policy/',
+      ],
+      title: `HTTP Security Header: Feature-Policy`,
+      description: ``
     }
   ]
 };
