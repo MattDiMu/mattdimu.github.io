@@ -1054,6 +1054,17 @@ we should try to reduce cognitive load, unlock pin = more declarative, unlock pa
       ],
       title: `HTTP Security Header: Feature-Policy`,
       description: ``
+    },
+    {
+      date: '2018-07-25',
+      tags: [
+        'spring'
+      ],
+      links: [
+        'http://www.baeldung.com/spring-data-jpa-query',
+      ],
+      title: `Spring Data JPA Queries`,
+      description: ``
     }
   ]
 };
