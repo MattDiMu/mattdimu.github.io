@@ -1065,6 +1065,18 @@ we should try to reduce cognitive load, unlock pin = more declarative, unlock pa
       ],
       title: `Spring Data JPA Queries`,
       description: ``
+    },
+    {
+      date: '2018-07-25',
+      tags: [
+        'css',
+        'a11y'
+      ],
+      links: [
+        'https://developer.paciellogroup.com/blog/2016/12/windows-high-contrast-mode-the-limited-utility-of-ms-high-contrast/',
+      ],
+      title: `Windows High contrast mode -ms-high-contrast`,
+      description: ``
     }
   ]
 };
