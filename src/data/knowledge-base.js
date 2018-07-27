@@ -1077,6 +1077,17 @@ we should try to reduce cognitive load, unlock pin = more declarative, unlock pa
       ],
       title: `Windows High contrast mode -ms-high-contrast`,
       description: ``
+    },
+    {
+      date: '2018-07-27',
+      tags: [
+        'shell'
+      ],
+      links: [
+        'https://pbs.twimg.com/media/DjFb_FPX4AAOwpa?format=jpg',
+      ],
+      title: `lsof`,
+      description: ``
     }
   ]
 };
