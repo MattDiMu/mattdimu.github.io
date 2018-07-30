@@ -1088,6 +1088,17 @@ we should try to reduce cognitive load, unlock pin = more declarative, unlock pa
       ],
       title: `lsof`,
       description: ``
+    },
+    {
+      date: '2018-07-30',
+      tags: [
+        'cs'
+      ],
+      links: [
+        'https://en.wikipedia.org/wiki/Quicksort',
+      ],
+      title: `Quicksort Algorithm`,
+      description: ``
     }
   ]
 };
