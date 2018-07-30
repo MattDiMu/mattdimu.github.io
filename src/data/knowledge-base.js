@@ -1090,7 +1090,7 @@ we should try to reduce cognitive load, unlock pin = more declarative, unlock pa
       description: ``
     },
     {
-      date: '2018-07-30',
+      date: '2018-07-29',
       tags: [
         'cs'
       ],
@@ -1098,7 +1098,18 @@ we should try to reduce cognitive load, unlock pin = more declarative, unlock pa
         'https://en.wikipedia.org/wiki/Quicksort',
       ],
       title: `Quicksort Algorithm`,
-      description: ``
+      description: `time complexity: Avg O(n log n), Worst O(n²), space complexity: from O(n) to O(n log n)`
+    },
+    {
+      date: '2018-07-30',
+      tags: [
+        'cs'
+      ],
+      links: [
+        'https://en.wikipedia.org/wiki/Selection_sort',
+      ],
+      title: `Selection sort Algorithm`,
+      description: `time complexity: Worst, Avg and Best is O(n²) comparisons + O(n) swaps, space complexity: O(1)`
     }
   ]
 };
