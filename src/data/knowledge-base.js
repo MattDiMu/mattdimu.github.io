@@ -1110,6 +1110,16 @@ we should try to reduce cognitive load, unlock pin = more declarative, unlock pa
       ],
       title: `Selection sort Algorithm`,
       description: `time complexity: Worst, Avg and Best is O(n²) comparisons + O(n) swaps, space complexity: O(1)`
-    }
-  ]
+    },
+    {
+      date: '2018-08-01',
+      tags: [
+        'java'
+      ],
+      links: [
+        'http://www.baeldung.com/java-timer-and-timertask',
+      ],
+      title: `TimerTask vs ScheduledThreadPoolExecutor`,
+      description: ``
+    }  ]
 };
