@@ -1121,5 +1121,17 @@ we should try to reduce cognitive load, unlock pin = more declarative, unlock pa
       ],
       title: `TimerTask vs ScheduledThreadPoolExecutor`,
       description: ``
-    }  ]
+    },
+    {
+      date: '2018-08-01',
+      tags: [
+        'java'
+      ],
+      links: [
+        'https://javarevisited.blogspot.com/2012/01/how-to-write-thread-safe-code-in-java.html',
+      ],
+      title: `Java Thread Safety`,
+      description: ``
+    }
+  ]
 };
