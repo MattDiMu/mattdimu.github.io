@@ -1132,6 +1132,17 @@ we should try to reduce cognitive load, unlock pin = more declarative, unlock pa
       ],
       title: `Java Thread Safety`,
       description: ``
-    }
+    },
+    {
+      date: '2018-08-02',
+      tags: [
+        'browser'
+      ],
+      links: [
+        'https://developers.google.com/web/updates/2018/06/feature-policy',
+      ],
+      title: `HTTP-Header Feature-Policy`,
+      description: ``
+    }    
   ]
 };
