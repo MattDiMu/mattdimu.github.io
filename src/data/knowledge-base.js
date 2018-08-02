@@ -1143,6 +1143,18 @@ we should try to reduce cognitive load, unlock pin = more declarative, unlock pa
       ],
       title: `HTTP-Header Feature-Policy`,
       description: ``
-    }    
+    },
+    {
+      date: '2018-08-02',
+      tags: [
+        'browser',
+        'security'
+      ],
+      links: [
+        'https://en.wikipedia.org/wiki/IDN_homograph_attack',
+      ],
+      title: `IDN Homograph Attack`,
+      description: ``
+    }
   ]
 };
