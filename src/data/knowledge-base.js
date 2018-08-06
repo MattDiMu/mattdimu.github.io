@@ -1155,6 +1155,17 @@ we should try to reduce cognitive load, unlock pin = more declarative, unlock pa
       ],
       title: `IDN Homograph Attack`,
       description: ``
+    },
+    {
+      date: '2018-08-06',
+      tags: [
+        'interesting'
+      ],
+      links: [
+        'https://www.youtube.com/watch?v=-YpwsdRKt8Q',
+      ],
+      title: `Data Mining Spiegel Online by David Kriesel (de)`,
+      description: ``
     }
   ]
 };
