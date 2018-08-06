@@ -1177,6 +1177,19 @@ we should try to reduce cognitive load, unlock pin = more declarative, unlock pa
       ],
       title: `Try-With-Resources instead of finalize methods`,
       description: `GC is implenetation-specific, may occur too late for system resources, finalize may be slow, exceptions in finalize method create corrupt objects => finalize deprecated since Java 9. Autocloseable and Try-With-Resources to the rescue.`
-    }
+    },
+    {
+      date: '2018-08-06',
+      tags: [
+        'javascript',
+        'performance'
+      ],
+      links: [
+        'https://medium.com/@addyosmani/the-cost-of-javascript-in-2018-7d8950fbb5d4',
+      ],
+      title: `The cost of JavaScript (2018 edition)`,
+      description: ``
+    }    
+    
   ]
 };
