@@ -1212,9 +1212,14 @@ we should try to reduce cognitive load, unlock pin = more declarative, unlock pa
       ],
       title: `Reactive Programming using RxJS`,
       description: `EventEmitters are eager, Observables are lazy (but not async)
-EventHandler APIs register listeneres, Observables do not. Subscribe call starts Observable execution and delivers the values/events
+EventHandler APIs register listeneres, common Observables do not.
+Subscribe call starts Observable execution and delivers the values/events
 Observer = consumer of these values from the Observable. Possible notifications: /next*(error|complete)?/
-
+Subject = special type of Observable, also an Observer, maintains a list of observers and may be used for multicast
+BehaviorSubject = Subject which maintains a "current value"
+ReplaySubject = BehaviorSubject which records multiple bygone values
+AsyncSubject = Subject which sends only the last value and only when it completes
+Operators generate new transformed Observables from existing ones (pure)
 `
     }
   ]
