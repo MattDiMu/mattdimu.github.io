@@ -1221,6 +1221,7 @@ BehaviorSubject = Subject which maintains a "current value"
 ReplaySubject = BehaviorSubject which records multiple bygone values
 AsyncSubject = Subject which sends only the last value and only when it completes
 Operators generate new transformed Observables from existing ones (pure)
+Schedulers control when the subscription starts and notfications are delivered
 `
     },
     {
