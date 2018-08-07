@@ -1189,7 +1189,18 @@ we should try to reduce cognitive load, unlock pin = more declarative, unlock pa
       ],
       title: `The cost of JavaScript (2018 edition)`,
       description: ``
+    },
+    {
+      date: '2018-08-07',
+      tags: [
+        'javascript'
+      ],
+      links: [
+        'https://alligator.io/angular/httpclient-intro/',
+        'https://alligator.io/angular/httpclient-interceptors/'
+      ],
+      title: `Angular HttpClient`,
+      description: ``
     }    
-    
   ]
 };
