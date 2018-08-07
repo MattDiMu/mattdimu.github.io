@@ -1159,6 +1159,18 @@ we should try to reduce cognitive load, unlock pin = more declarative, unlock pa
     {
       date: '2018-08-04',
       tags: [
+        'javascript'
+      ],
+      links: [
+        'https://alligator.io/angular/httpclient-intro/',
+        'https://alligator.io/angular/httpclient-interceptors/'
+      ],
+      title: `Angular HttpClient`,
+      description: ``
+    },
+    {
+      date: '2018-08-04',
+      tags: [
         'interesting'
       ],
       links: [
@@ -1196,11 +1208,14 @@ we should try to reduce cognitive load, unlock pin = more declarative, unlock pa
         'javascript'
       ],
       links: [
-        'https://alligator.io/angular/httpclient-intro/',
-        'https://alligator.io/angular/httpclient-interceptors/'
+        'http://reactivex.io/rxjs/manual/overview.html'
       ],
-      title: `Angular HttpClient`,
-      description: ``
-    }    
+      title: `Reactive Programming using RxJS`,
+      description: `EventEmitters are eager, Observables are lazy (but not async)
+EventHandler APIs register listeneres, Observables do not. Subscribe call starts Observable execution and delivers the values/events
+Observer = consumer of these values from the Observable. Possible notifications: /next*(error|complete)?/
+
+`
+    }
   ]
 };
