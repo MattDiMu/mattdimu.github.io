@@ -5,6 +5,7 @@ export default {
     magnolia: 'Magnolia',
     browser: 'Browser',
     javascript: 'JavaScript',
+    seo: 'SEO',
     css: 'CSS',
     a11y: 'Accessibility',
     network: 'Network',
@@ -1221,6 +1222,22 @@ ReplaySubject = BehaviorSubject which records multiple bygone values
 AsyncSubject = Subject which sends only the last value and only when it completes
 Operators generate new transformed Observables from existing ones (pure)
 `
+    },
+    {
+      date: '2018-08-07',
+      tags: [
+        'seo',
+        'accessibility'
+      ],
+      links: [
+        'https://en.wikipedia.org/wiki/Schema.org',
+        'https://schema.org'
+      ],
+      title: `Semantic web & schema.org`,
+      description: `Microdata: [itemscope][itemtype="..."] [itemprop=""]
+JSON-LD (JavaScript Object Notation for Linked Data) <script type="application/ld+json">{...}</script>
+RDFa Lite (Resource Description Framework in attributes) [vocab="..."] [typeof="..."] [property=""]
+Microformats (class naming conventions) is not supported by schema.org`
     }
   ]
 };
