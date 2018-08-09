@@ -1192,6 +1192,18 @@ we should try to reduce cognitive load, unlock pin = more declarative, unlock pa
       description: `GC is implenetation-specific, may occur too late for system resources, finalize may be slow, exceptions in finalize method create corrupt objects => finalize deprecated since Java 9. Autocloseable and Try-With-Resources to the rescue.`
     },
     {
+      date: '2018-08-05',
+      tags: [
+        'javascript',
+        'browser'
+      ],
+      links: [
+        'https://eu.udacity.com/course/front-end-frameworks--ud894'
+      ],
+      title: `Front End Frameworks under the hood`,
+      description: ``
+    },
+    {
       date: '2018-08-06',
       tags: [
         'javascript',
@@ -1239,6 +1251,19 @@ Schedulers control when the subscription starts and notfications are delivered
 JSON-LD (JavaScript Object Notation for Linked Data) <script type="application/ld+json">{...}</script>
 RDFa Lite (Resource Description Framework in attributes) [vocab="..."] [typeof="..."] [property=""]
 Microformats (class naming conventions) is not supported by schema.org`
+    },
+    {
+      date: '2018-08-09',
+      tags: [
+        'network',
+        'security',
+        'browser'
+      ],
+      links: [
+        'https://eu.udacity.com/course/client-server-communication--ud897'
+      ],
+      title: `Recap: Client-Server Communication`,
+      description: ``
     }
   ]
 };
