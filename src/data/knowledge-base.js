@@ -1264,6 +1264,18 @@ Microformats (class naming conventions) is not supported by schema.org`
       ],
       title: `Recap: Client-Server Communication`,
       description: ``
+    },
+    {
+      date: '2018-08-10',
+      tags: [
+        'cs',
+        'security'
+      ],
+      links: [
+        'https://www.youtube.com/watch?v=E0_Y53ci9cw'
+      ],
+      title: `Software Development Antipatterns 34C3 (de)`,
+      description: ``
     }
   ]
 };
