@@ -1276,6 +1276,18 @@ Microformats (class naming conventions) is not supported by schema.org`
       ],
       title: `Software Development Antipatterns 34C3 (de)`,
       description: ``
+    },
+    {
+      date: '2018-08-10',
+      tags: [
+        'interesting',
+        'mathematics'
+      ],
+      links: [
+        'https://www.youtube.com/watch?v=uCsD3ZGzMgE'
+      ],
+      title: `The Josephus problem aka detecting patterns`,
+      description: ``
     }
   ]
 };
