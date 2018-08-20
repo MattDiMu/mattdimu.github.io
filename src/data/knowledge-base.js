@@ -1288,6 +1288,17 @@ Microformats (class naming conventions) is not supported by schema.org`
       ],
       title: `The Josephus problem aka detecting patterns`,
       description: ``
+    },
+    {
+      date: '2018-08-20',
+      tags: [
+        'java'
+      ],
+      links: [
+        'https://www.rainerhahnekamp.com/en/publishing-a-java-library-to-maven-central/'
+      ],
+      title: `Publishing a java library to maven central`,
+      description: ``
     }
   ]
 };
