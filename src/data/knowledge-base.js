@@ -1299,6 +1299,22 @@ Microformats (class naming conventions) is not supported by schema.org`
       ],
       title: `Publishing a java library to maven central`,
       description: ``
-    }
+    },
+    {
+      date: '2018-08-25',
+      tags: [
+        'java'
+      ],
+      links: [
+        'https://examples.javacodegeeks.com/enterprise-java/sql-enterprise-java/jdbc-driver-types-example/',
+        'https://en.wikipedia.org/wiki/JDBC_driver'
+      ],
+      title: `JDBC Drivers`,
+      description: `Type 1: JDBC – ODBC Bridge
+Type 2: Native API Driver
+Type 3: Network Protocol Driver (Middleware Driver)
+Type 4: Database Protocol Driver (Pure Java) or thin driver`
+    }    
+
   ]
 };
