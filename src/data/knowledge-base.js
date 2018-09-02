@@ -1325,6 +1325,16 @@ Type 4: Database Protocol Driver (Pure Java) or thin driver`
       ],
       title: `Angular CLI Builders`,
       description: ``
-    }
+    },
+    {
+      date: '2018-09-02',
+      tags: [
+        'java',
+      ],
+      links: [
+        'http://www.vogella.com/tutorials/EclipseMemoryAnalyzer/article.html',
+      ],
+      title: 'Introduction: Eclipse Memory Analyzer',
+      'description': ``
   ]
 };
