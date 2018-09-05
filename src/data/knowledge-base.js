@@ -1336,5 +1336,17 @@ Type 4: Database Protocol Driver (Pure Java) or thin driver`
       ],
       title: 'Introduction: Eclipse Memory Analyzer',
       'description': ``
+    },
+    {
+      date: '2018-09-05',
+      tags: [
+        'java',
+      ],
+      links: [
+        'https://www.baeldung.com/java-uuid',
+      ],
+      title: 'Java uuid/guid',
+      'description': ``
+    }
   ]
 };
