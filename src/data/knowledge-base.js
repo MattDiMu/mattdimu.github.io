@@ -1359,6 +1359,17 @@ Type 4: Database Protocol Driver (Pure Java) or thin driver`
       ],
       title: 'JS-Engine: Execution Context, Global Memory and Call Stack.',
       'description': ``
+    },
+    {
+      date: '2018-09-10',
+      tags: [
+        'css',
+      ],
+      links: [
+        'https://www.youtube.com/watch?v=7kVeCqQCxlk',
+      ],
+      title: 'CSS Grid',
+      'description': ``
     }
   ]
 };
