@@ -1348,6 +1348,17 @@ Type 4: Database Protocol Driver (Pure Java) or thin driver`
       ],
       title: 'Java uuid/guid',
       'description': ``
+    },
+    {
+      date: '2018-09-09',
+      tags: [
+        'javascript',
+      ],
+      links: [
+        'https://www.valentinog.com/blog/js-execution-context-call-stack/',
+      ],
+      title: 'JS-Engine: Execution Context, Global Memory and Call Stack.',
+      'description': ``
     }
   ]
 };
