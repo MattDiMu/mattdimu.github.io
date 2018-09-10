@@ -322,7 +322,8 @@ export default {
         'browser'
       ],
       links: [
-        'https://youtu.be/wFLJARWVPlc'
+        'https://youtu.be/wFLJARWVPlc',
+        'https://jakearchibald.com/2015/tasks-microtasks-queues-and-schedules/'
       ],
       title: 'Jake Archibald - In The Loop',
       description: ''
