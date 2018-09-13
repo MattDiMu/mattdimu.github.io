@@ -1370,6 +1370,18 @@ Type 4: Database Protocol Driver (Pure Java) or thin driver`
       ],
       title: 'CSS Grid',
       'description': ``
+    },
+    {
+      date: '2018-09-13',
+      tags: [
+        'package-manager',
+        'javscript'
+      ],
+      links: [
+        'https://github.com/yarnpkg/rfcs/files/2378943/Plugnplay.pdf',
+      ],
+      title: `Yarn Plug'n'PLay RFC`,
+      'description': ``
     }
   ]
 };
