@@ -1393,6 +1393,17 @@ Type 4: Database Protocol Driver (Pure Java) or thin driver`
       ],
       title: `SSR, Preact and Glimmer benchmarks`,
       'description': ``
-    }    
+    },
+    {
+      date: '2018-09-20',
+      tags: [
+        'javscript'
+      ],
+      links: [
+        'https://dev.to/nickyhajal/demystifying-arrayreduce-how-to-understand-it-and-when-to-use-it-in-your-code-5b96',
+      ],
+      title: `JavaScripts Array.prototype.reduce`,
+      'description': ``
+    }
   ]
 };
