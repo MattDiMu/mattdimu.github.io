@@ -1404,6 +1404,20 @@ Type 4: Database Protocol Driver (Pure Java) or thin driver`
       ],
       title: `JavaScripts Array.prototype.reduce`,
       'description': ``
+    },
+    {
+      date: '2018-09-24',
+      tags: [
+        'cs'
+      ],
+      links: [
+        'https://dev.to/theoutlander/how-can-you-swap-two-variables-without-using-a-third-2f30',
+      ],
+      title: `Swapping two variables using bitwise operators`,
+      'description': `x = x ^ y
+y = x ^ y
+x = x ^ y
+`
     }
   ]
 };
