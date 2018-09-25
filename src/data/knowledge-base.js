@@ -352,19 +352,21 @@ export default {
       description: ''
     },
     {
-      date: '2018-04-19',
+      date: '2018-09-25',
       tags: [
         'interesting'
       ],
       links: [
-        'https://daverupert.com/2018/04/eponymous-laws-of-tech/'
+        'https://daverupert.com/2018/04/eponymous-laws-of-tech/',
+        'https://en.wikipedia.org/wiki/Ninety-ninety_rule'
       ],
       title: 'tech-related laws, fallacies, and other wisdom',
       description: `Bezos’ Two-Pizza Rule
                     Brooks' Law
                     Cunningham’s Law
                     Dunning-Kruger Effect
-                    Miller’s Law`
+                    Miller’s Law
+                    Ninety-Ninety rule`
     },
     {
       date: '2018-04-19',
