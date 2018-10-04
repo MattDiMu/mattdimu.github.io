@@ -1420,6 +1420,17 @@ Type 4: Database Protocol Driver (Pure Java) or thin driver`
 y = x ^ y
 x = x ^ y
 `
+    },
+    {
+      date: '2018-09-24',
+      tags: [
+        'cs'
+      ],
+      links: [
+        'http://ookami86.github.io/event-sourcing-in-practice/index.html',
+      ],
+      title: `Event Sourcing vs Command Sourcing`,
+      'description': `Problems: side effects, reporting & queries, versioning of events, concurrent writes`
     }
   ]
 };
