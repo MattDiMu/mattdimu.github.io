@@ -892,16 +892,17 @@ we should try to reduce cognitive load, unlock pin = more declarative, unlock pa
       description: ``
     },
     {
-      date: '2018-07-06',
+      date: '2018-10-23',
       tags: [
         'ux',
         'ui'
       ],
       links: [
         'https://www.theverge.com/2013/8/29/4640308/dark-patterns-inside-the-interfaces-designed-to-trick-you',
+        'https://thedesignest.net/see-now-dark-patterns-design/'
       ],
       title: `Dark Pattern in UIs`,
-      description: `trick questions, forced continuity, misdirection`
+      description: `trick questions, forced continuity, misdirection, constrained software`
     },
     {
       date: '2018-07-09',
