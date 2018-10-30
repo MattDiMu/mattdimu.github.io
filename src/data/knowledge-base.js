@@ -1432,6 +1432,18 @@ x = x ^ y
       ],
       title: `Event Sourcing vs Command Sourcing`,
       'description': `Problems: side effects, reporting & queries, versioning of events, concurrent writes`
-    }
+    },
+    {
+      date: '2018-10-30',
+      tags: [
+        'performance',
+        'browser'
+      ],
+      links: [
+        'https://3perf.com/talks/web-perf-101/',
+      ],
+      title: `Recap: Browser Performance Optimizations`,
+      'description': ``
+    }    
   ]
 };
