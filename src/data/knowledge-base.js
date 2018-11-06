@@ -1444,6 +1444,18 @@ x = x ^ y
       ],
       title: `Recap: Browser Performance Optimizations`,
       'description': ``
-    }    
+    },
+    {
+      date: '2018-11-06',
+      tags: [
+        'java',
+        'cs'
+      ],
+      links: [
+        'https://springframework.guru/gang-of-four-design-patterns/template-method-pattern/',
+      ],
+      title: `Template Method Pattern`,
+      'description': ``
+    }
   ]
 };
