@@ -1456,6 +1456,18 @@ x = x ^ y
       ],
       title: `Template Method Pattern`,
       'description': ``
+    },
+    {
+      date: '2018-11-12',
+      tags: [
+        'javascript',
+        'browser'
+      ],
+      links: [
+        'https://www.youtube.com/watch?v=XCti72iChzg',
+      ],
+      title: `Web Components`,
+      'description': ``
     }
   ]
 };
