@@ -1468,6 +1468,19 @@ x = x ^ y
       ],
       title: `Web Components`,
       'description': ``
-    }
+    },
+    {
+      date: '2018-11-26',
+      tags: [
+        'performance',
+        'browser'
+      ],
+      links: [
+        'https://bitsofco.de/what-is-first-input-delay',
+      ],
+      title: `First Input Delay`,
+      'description': ``
+    }    
+    
   ]
 };
