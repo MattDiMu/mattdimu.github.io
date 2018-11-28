@@ -1480,7 +1480,18 @@ x = x ^ y
       ],
       title: `First Input Delay`,
       'description': ``
-    }    
-    
+    },
+    {
+      date: '2018-11-28',
+      tags: [
+        'cs',
+        'java'
+      ],
+      links: [
+        'https://codeahoy.com/2016/05/08/the-char-type-in-java-is-broken/',
+        'https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/'
+      ],
+      title: `Unicode & Java char problems`,
+      'description': ``
   ]
 };
