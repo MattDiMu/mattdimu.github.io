@@ -1493,5 +1493,21 @@ x = x ^ y
       ],
       title: `Unicode & Java char problems`,
       'description': ``
+    },
+    {
+      date: '2018-12-13',
+      tags: [
+        'css',
+        'html',
+        'performance',
+        'browser'
+      ],
+      links: [
+        'https://eu.udacity.com/course/responsive-images--ud882'
+      ],
+      title: `Recap: Responsive Images`,
+      'description': ``
+    },
+    
   ]
 };
