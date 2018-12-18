@@ -1508,6 +1508,16 @@ x = x ^ y
       title: `Recap: Responsive Images`,
       'description': ``
     },
-    
+    {
+      date: '2018-12-18',
+      tags: [
+        'java'
+      ],
+      links: [
+        'http://dolszewski.com/java/java-object-equals-contract/'
+      ],
+      title: `Java Object euqals contract`,
+      'description': `hash code collisions are okay`
+    },
   ]
 };
