@@ -1519,5 +1519,16 @@ x = x ^ y
       title: `Java Object euqals contract`,
       'description': `hash code collisions are okay`
     },
+    {
+      date: '2018-12-21',
+      tags: [
+        'css'
+      ],
+      links: [
+        'https://css-tricks.com/font-display-masses/'
+      ],
+      title: `CSS font-display`,
+      'description': ``
+    }
   ]
 };
