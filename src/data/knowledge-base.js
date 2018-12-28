@@ -1529,6 +1529,18 @@ x = x ^ y
       ],
       title: `CSS font-display`,
       'description': ``
+    },
+    {
+      date: '2018-12-28',
+      tags: [
+        'javascript',
+        'browser'
+      ],
+      links: [
+        'https://eu.udacity.com/course/offline-web-applications--ud899'
+      ],
+      title: `Udacity IndexedDB, web cache & service workers`,
+      'description': ``
     }
   ]
 };
