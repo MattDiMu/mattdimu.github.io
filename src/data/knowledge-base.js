@@ -1541,6 +1541,17 @@ x = x ^ y
       ],
       title: `Udacity IndexedDB, web cache & service workers`,
       'description': ``
+    },
+    {
+      date: '2019-01-03',
+      tags: [
+        'java'
+      ],
+      links: [
+        'https://www.javacodegeeks.com/2018/12/java-11-new-http-client-api.html'
+      ],
+      title: `Java 11 HTTP Client API`,
+      'description': ``
     }
   ]
 };
