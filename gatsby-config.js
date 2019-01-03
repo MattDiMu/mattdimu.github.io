@@ -21,7 +21,7 @@ module.exports = {
     ],
     author: {
       name: 'Matthias Müller',
-      email: 'matthiasundmueller@gmail.com',
+      email: 'dev@matthiasmueller.me',
       twitter: 'MattDiMu',
       github: 'MattDiMu',
       vk: '',
