@@ -19,11 +19,11 @@ module.exports = {
         label: 'About me',
         path: '/about/'
       },
-      */
       {
         label: 'Curriculum Vitae',
         path: '/cv'
       }
+      */
     ],
     author: {
       name: 'Matthias Müller',
