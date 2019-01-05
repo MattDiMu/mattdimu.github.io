@@ -1,0 +1,10 @@
+BEGIN:VCARD
+VERSION:2.1
+N;CHARSET=ISO-8859-1:Müller;Matthias;;;Matthias Müller
+FN;CHARSET=ISO-8859-1: Matthias Müller
+TITLE:Software Engineer
+ADR;HOME:;;;Vienna;;;Austria
+URL;type=PRIVATE;CHARSET=ISO-8859-1:https://www.matthiasmueller.me
+TEL;CELL:+43 681 20132992
+EMAIL:dev@matthiasmueller.me
+END:VCARD
