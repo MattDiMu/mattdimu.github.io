@@ -22,7 +22,15 @@ class KnowledgeBase extends React.Component {
     setTimeout(() => {
       this.setState({
         isLoading: false,
-        entries: data.entries,
+        entries: data.entries.sort((a, b) => {
+          if (!b.date) {
+            return a;
+          }
+          if (!a.date) {
+            return b;
+          }
+          return a.date > b.date ? -1 : 1;
+        }),
         availableTags: data.availableTags
       });
     }, 100);

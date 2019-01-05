@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     url: 'https://mattdimu.github.io/',
     title: 'Matthias Müller',
-    subtitle: 'I\'m a software engineer from Austria, currently working at the LFRZ in Vienna.',
+    subtitle: 'I\'m a software engineer from Austria, currently working at the LFRZ GmbH in Vienna.',
     copyright: '© All rights reserved.',
     disqusShortname: '',
     menu: [
@@ -10,6 +10,7 @@ module.exports = {
         label: 'Home',
         path: '/'
       },
+      /*
       {
         label: 'Articles',
         path: '/articles/'
@@ -17,6 +18,11 @@ module.exports = {
       {
         label: 'About me',
         path: '/about/'
+      },
+      */
+      {
+        label: 'Curriculum Vitae',
+        path: '/cv'
       }
     ],
     author: {

@@ -4,13 +4,13 @@
   "description": "Gatsby based personal site / knowledge base",
   "main": "n/a",
   "scripts": {
-    "dev": "npm run develop",
+    "dev": "yarn run develop",
     "develop": "gatsby develop",
     "build": "gatsby build",
     "clean:public": "rm -rf public",
-    "clean": "npm run clean:public",
+    "clean": "yarn run clean:public",
     "lint": "./node_modules/.bin/eslint --cache --ext .js,.jsx --ignore-pattern public .",
-    "test": "npm run lint",
+    "test": "yarn run lint",
     "deploy": "gatsby build && gh-pages -b master -d public"
   },
   "keywords": [

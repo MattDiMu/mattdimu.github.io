@@ -1,3 +1,4 @@
+/* eslint-disable quotes,linebreak-style,comma-dangle,quote-props */
 export default {
   availableTags: {
     java: 'Java & JVM',

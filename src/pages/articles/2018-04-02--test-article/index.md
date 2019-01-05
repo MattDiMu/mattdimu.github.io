@@ -3,7 +3,7 @@ title: "A brief title"
 date: "2018-04-02"
 layout: post
 draft: false
-path: "/posts/2018-04-02--test-article/"
+path: "/articles/2018-04-02--test-article/"
 category: "JavaScript"
 tags:
   - "Programming"

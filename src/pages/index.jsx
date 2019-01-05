@@ -17,7 +17,8 @@ class IndexRoute extends React.Component {
         <div className="content">
           <div className="content__inner">
             <div className="page knowledge-base">
-              <h1 className="page__title">Knowledge Base</h1>
+              <h1 className="page__title">Web Resources</h1>
+              <p>A curated list of great online articles, videos and courses with long-term benefits, constantly reviewed and enhanced.</p> {/* eslint-disable-line */}
               <div className="page__body">
                 {/* <p>
                   TODO
