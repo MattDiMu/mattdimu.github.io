@@ -59,7 +59,7 @@ h1 {
 h2 {
   font-size: calc(var(--font-size) * 1.5);
   line-height: calc(var(--typography-base) * 2);
-  margin-top: calc(var(--typography-base) * 2);
+  margin-top: 0;
   margin-bottom: 0;
   color: var(--color-primary)
 }
@@ -97,11 +97,16 @@ button {
   cursor: pointer;
 }
 
+.inner > section {
+  page-break-inside: avoid;
+}
+
 .section-heading {
   clear: both;
   position: relative;
   margin-left: 40px;
   padding-bottom: calc(var(--typography-base) * 1);
+  border-top: calc(var(--typography-base) * 2) solid transparent;
 }
 .section-heading::before {
   content: '';
@@ -244,9 +249,20 @@ section > ul > li::after {
   float: left;
   width: 100%;
   margin-left: 40px;
+  page-break-inside: avoid;
 }
 
-li .col-content::before {
+.page-break-inside-auto.page-break-inside-auto {
+  page-break-inside: auto;
+}
+
+.col-timetable {
+  line-height: var(--typography-base);
+  font-size: .8rem;
+}
+
+li .col-content::before,
+li .col-timetable::before {
   position: absolute;
   content: '';
   height: 100%;
@@ -309,6 +325,9 @@ dl dd {
     width: var(--col-timetable);
     padding-right: var(--container-padding);
     margin-left: 0;
+  }
+  .col-timetable::before {
+    display: none;
   }
   .col-content {
     clear: none;
