@@ -325,6 +325,8 @@ dl dd {
     width: var(--col-timetable);
     padding-right: var(--container-padding);
     margin-left: 0;
+    font-size: 1em;
+    line-height: calc(var(--typogryphy-base));
   }
   .col-timetable::before {
     display: none;
