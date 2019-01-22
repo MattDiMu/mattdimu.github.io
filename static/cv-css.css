@@ -414,3 +414,16 @@ dl dd {
   margin-left: 0;
   margin-right: 0;
 }
+
+.list-compact {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  font-size: 14px;
+  line-height: calc(var(--typography-base) * 1.5);
+}
+
+.list-compact [class^="icon-"]::before {
+  font-size: 14px;
+}
+

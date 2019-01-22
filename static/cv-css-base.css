@@ -408,25 +408,29 @@ template {
   /* Uncomment for 3D effect */
   /* text-shadow: 1px 1px 1px rgba(127, 127, 127, 0.3); */
 }
- 
+
+
 .icon-link:before { content: '\e800'; } /* '' */
 .icon-mail:before { content: '\e801'; } /* '' */
 .icon-location:before { content: '\e802'; } /* '' */
 .icon-phone:before { content: '\e803'; } /* '' */
 .icon-hammer:before { content: '\e804'; } /* '' */
 .icon-camera-alt:before { content: '\e805'; } /* '' */
+.icon-videocam:before { content: '\e806'; } /* '' */
 .icon-link-ext:before { content: '\f08e'; } /* '' */
 .icon-twitter:before { content: '\f099'; } /* '' */
 .icon-github-circled:before { content: '\f09b'; } /* '' */
 .icon-certificate:before { content: '\f0a3'; } /* '' */
 .icon-beaker:before { content: '\f0c3'; } /* '' */
 .icon-linkedin:before { content: '\f0e1'; } /* '' */
+.icon-doc-text:before { content: '\f0f6'; } /* '' */
 .icon-code:before { content: '\f121'; } /* '' */
 .icon-info:before { content: '\f129'; } /* '' */
 .icon-puzzle:before { content: '\f12e'; } /* '' */
 .icon-xing:before { content: '\f168'; } /* '' */
 .icon-stackoverflow:before { content: '\f16c'; } /* '' */
 .icon-graduation-cap:before { content: '\f19d'; } /* '' */
+.icon-file-pdf:before { content: '\f1c1'; } /* '' */
 .icon-chart-line:before { content: '\f201'; } /* '' */
 .icon-industry:before { content: '\f275'; } /* '' */
 .icon-hashtag:before { content: '\f292'; } /* '' */
