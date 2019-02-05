@@ -15,7 +15,7 @@ class BaseEntry extends React.Component {
     const Links = [];
 
     linkArr.forEach((link) => {
-      Links.push(<a className="base-entry__link" href={link} key={link} rel="noopener" target="_blank">{beautifyUrl(link)}</a>);
+      Links.push(<a className="base-entry__link" href={link} key={link} rel="noopener noreferrer" target="_blank">{beautifyUrl(link)}</a>);
     });
 
     const date = moment(this.props.item.date);
