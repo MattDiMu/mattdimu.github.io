@@ -1577,6 +1577,6 @@ x = x ^ y
       ],
       title: `Performance impacts on usability`,
       'description': ``
-    }    
+    }
   ]
 };
