@@ -1564,6 +1564,19 @@ x = x ^ y
       ],
       title: `Google Indexing for huge sites`,
       'description': ``
-    }
+    },
+    {
+      date: '2019-02-07',
+      tags: [
+        'performance',
+        'browser',
+        'ux'
+      ],
+      links: [
+        'https://addyosmani.com/blog/usability/'
+      ],
+      title: `Performance impacts on usability`,
+      'description': ``
+    }    
   ]
 };
