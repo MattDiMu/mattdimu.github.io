@@ -1577,6 +1577,18 @@ x = x ^ y
       ],
       title: `Performance impacts on usability`,
       'description': ``
+    },
+    {
+      date: '2019-03-06',
+      tags: [
+        'spring',
+        'java'
+      ],
+      links: [
+        'https://www.baeldung.com/spring-lookup'
+      ],
+      title: `Spring lookup`,
+      'description': ``
     }
   ]
 };
