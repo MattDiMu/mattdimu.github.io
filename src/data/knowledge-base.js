@@ -1589,6 +1589,20 @@ x = x ^ y
       ],
       title: `Spring lookup`,
       'description': ``
-    }
+    },
+    {
+      date: '2019-03-13',
+      tags: [
+        'css',
+        'browser'
+      ],
+      links: [
+        'https://chromium.googlesource.com/chromium/blink/+/master/Source/core/css/html.css',
+        'https://dxr.mozilla.org/mozilla-central/source/layout/style/res/html.css',
+        'https://trac.webkit.org/browser/trunk/Source/WebCore/css/html.css'
+      ],
+      title: `User Agent Style Sheets`,
+      'description': ``
+    },    
   ]
 };
