@@ -1603,6 +1603,6 @@ x = x ^ y
       ],
       title: `User Agent Style Sheets`,
       'description': ``
-    },    
+    }
   ]
 };
