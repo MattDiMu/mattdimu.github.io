@@ -1603,6 +1603,18 @@ x = x ^ y
       ],
       title: `User Agent Style Sheets`,
       'description': ``
+    },
+    {
+      date: '2019-04-01',
+      tags: [
+        'js',
+        'browser'
+      ],
+      links: [
+        'https://youtu.be/lG7U3fuNw3A'
+      ],
+      title: `Sanitizing HTML, Pitfalls and Problems`,
+      'description': ``
     }
   ]
 };
