@@ -1615,6 +1615,17 @@ x = x ^ y
       ],
       title: `Sanitizing HTML, Pitfalls and Problems`,
       'description': ``
-    }
+    },
+    {
+      date: '2019-04-06',
+      tags: [
+        'js'
+      ],
+      links: [
+        'https://javascriptrefined.io/the-wrapper-object-400311b29151'
+      ],
+      title: `JavaScript Wrapper Objects`,
+      'description': ``
+    }    
   ]
 };
