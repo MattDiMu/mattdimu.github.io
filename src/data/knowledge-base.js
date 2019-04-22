@@ -1626,6 +1626,17 @@ x = x ^ y
       ],
       title: `JavaScript Wrapper Objects`,
       'description': ``
-    }    
+    },
+    {
+      date: '2019-04-22',
+      tags: [
+        'java'
+      ],
+      links: [
+        'https://www.baeldung.com/java-lambda-effectively-final-local-variables'
+      ],
+      title: `Why only (Effectively) final local variables may be used in lambdas.`,
+      'description': ``
+    }
   ]
 };
