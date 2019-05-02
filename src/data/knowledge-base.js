@@ -1637,6 +1637,17 @@ x = x ^ y
       ],
       title: `Why only (Effectively) final local variables may be used in lambdas.`,
       'description': ``
+    },
+    {
+      date: '2019-05-02',
+      tags: [
+        'css'
+      ],
+      links: [
+        'https://andy-bell.design/wrote/creating-a-full-bleed-css-utility/'
+      ],
+      title: `CSS Full Bleed Utility`,
+      'description': ``
     }
   ]
 };
