@@ -1657,7 +1657,7 @@ x = x ^ y
       links: [
         'https://www.baeldung.com/configuration-properties-in-spring-boot'
       ],
-      title: `Spring Configuration Properties`,
+      title: `Spring Boot Configuration Properties`,
       'description': ``
     }
   ]
