@@ -1648,6 +1648,17 @@ x = x ^ y
       ],
       title: `CSS Full Bleed Utility`,
       'description': ``
+    },
+    {
+      date: '2019-07-01',
+      tags: [
+        'spring'
+      ],
+      links: [
+        'https://www.baeldung.com/configuration-properties-in-spring-boot'
+      ],
+      title: `Spring Configuration Properties`,
+      'description': ``
     }
   ]
 };
