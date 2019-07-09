@@ -1659,6 +1659,17 @@ x = x ^ y
       ],
       title: `Spring Boot Configuration Properties`,
       'description': ``
+    },
+    {
+      date: '2019-07-09',
+      tags: [
+        'java'
+      ],
+      links: [
+        'https://truth.dev/'
+      ],
+      title: `Truth Assertion Library`,
+      'description': ``
     }
   ]
 };
