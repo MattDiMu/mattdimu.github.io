@@ -1670,6 +1670,17 @@ x = x ^ y
       ],
       title: `Truth Assertion Library`,
       'description': ``
+    },
+    {
+      date: '2019-07-10',
+      tags: [
+        'javascript'
+      ],
+      links: [
+        'https://samsaccone.com/posts/why-is-my-webpack-build-slow.html'
+      ],
+      title: `Webpack performance debugging`,
+      'description': ``
     }
   ]
 };
