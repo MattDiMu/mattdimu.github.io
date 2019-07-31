@@ -1681,6 +1681,17 @@ x = x ^ y
       ],
       title: `Webpack performance debugging`,
       'description': ``
+    },
+    {
+      date: '2019-07-31',
+      tags: [
+        'javascript'
+      ],
+      links: [
+        'https://css-tricks.com/everything-you-need-to-know-about-date-in-javascript/'
+      ],
+      title: `Dates in JavaScript`,
+      'description': ``
     }
   ]
 };
