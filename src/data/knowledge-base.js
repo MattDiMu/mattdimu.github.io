@@ -1692,6 +1692,18 @@ x = x ^ y
       ],
       title: `Dates in JavaScript`,
       'description': ``
+    },
+    {
+      date: '2019-08-16',
+      tags: [
+        'javascript',
+        'browser'
+      ],
+      links: [
+        'https://www.youtube.com/watch?v=D61EQuTqvvY'
+      ],
+      title: `Performance of postMessage`,
+      'description': `complexity of payload doesn't really matter, lenght does -> currently max. 10kB on low-end`
     }
   ]
 };
