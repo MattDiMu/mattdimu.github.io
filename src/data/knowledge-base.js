@@ -1704,6 +1704,17 @@ x = x ^ y
       ],
       title: `Performance of postMessage`,
       'description': `complexity of payload doesn't really matter, lenght does -> currently max. 10kB on low-end`
+    },
+    {
+      date: '2019-09-04',
+      tags: [
+        'javascript'
+      ],
+      links: [
+        'https://vladmihalcea.com/why-you-should-never-use-the-table-identifier-generator-with-jpa-and-hibernate/'
+      ],
+      title: 'JPA & Hibernate ID-Generator',
+      'description': 'SEQUENCE ftw :)'
     }
   ]
 };
