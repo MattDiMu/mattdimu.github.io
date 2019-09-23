@@ -1715,6 +1715,17 @@ x = x ^ y
       ],
       title: 'JPA & Hibernate ID-Generator',
       'description': 'SEQUENCE ftw :)'
+    },
+    {
+      date: '2019-09-23',
+      tags: [
+        'javascript'
+      ],
+      links: [
+        'https://www.youtube.com/watch?v=wPBjd-vb9eI'
+      ],
+      title: 'IEEE 754 Implementation in JS',
+      'description': ''
     }
   ]
 };
