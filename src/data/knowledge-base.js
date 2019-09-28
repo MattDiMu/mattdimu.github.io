@@ -1726,6 +1726,17 @@ x = x ^ y
       ],
       title: 'IEEE 754 Implementation in JS',
       'description': ''
+    },
+    {
+      date: '2019-09-28',
+      tags: [
+        'javascript'
+      ],
+      links: [
+        'https://www.baeldung.com/spring-boot-12-factor'
+      ],
+      title: 'Twelve-Factor Methodology in a Spring Boot',
+      'description': ''
     }
   ]
 };
