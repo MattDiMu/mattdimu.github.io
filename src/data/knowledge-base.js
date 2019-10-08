@@ -1737,6 +1737,17 @@ x = x ^ y
       ],
       title: 'Twelve-Factor Methodology in a Spring Boot',
       'description': ''
+    },
+    {
+      date: '2019-10-08',
+      tags: [
+        'javascript'
+      ],
+      links: [
+        'https://www.baeldung.com/spring-aop-vs-aspectj'
+      ],
+      title: 'Spring AOP vs AspectJ',
+      'description': ''
     }
   ]
 };
