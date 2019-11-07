@@ -1748,6 +1748,17 @@ x = x ^ y
       ],
       title: 'Spring AOP vs AspectJ',
       'description': ''
+    },
+    {
+      date: '2019-11-07',
+      tags: [
+        'javascript'
+      ],
+      links: [
+        'https://hstspreload.org/'
+      ],
+      title: 'HSTS Preload List / preload flag',
+      'description': ''
     }
   ]
 };
