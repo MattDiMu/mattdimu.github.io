@@ -5,3 +5,4 @@
   X-Content-Type-Options: nosniff
   X-XSS-Protection: 1;mode=block
   Content-Security-Policy: default-src https: data:; script-src https: data: 'unsafe-inline' 'unsafe-eval'; style-src https: data: 'unsafe-inline'
+  Strict-Transport-Security: max-age=63072000; includeSubDomains; preload
