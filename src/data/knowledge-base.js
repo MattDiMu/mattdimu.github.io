@@ -1759,6 +1759,17 @@ x = x ^ y
       ],
       title: 'HSTS Preload List / preload flag',
       'description': ''
+    },
+    {
+      date: '2019-11-25',
+      tags: [
+        'javascript'
+      ],
+      links: [
+        'https://hackernoon.com/the-rise-of-microsoft-visual-studio-code-a3d143490a52'
+      ],
+      title: 'Editor and IDE Adoption Rate',
+      'description': ''
     }
   ]
 };
