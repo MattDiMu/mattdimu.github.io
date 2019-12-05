@@ -1770,6 +1770,17 @@ x = x ^ y
       ],
       title: 'Editor and IDE Adoption Rate',
       'description': ''
+    },
+    {
+      date: '2019-12-05',
+      tags: [
+        'javascript'
+      ],
+      links: [
+        'http://www.jenv.be/'
+      ],
+      title: 'jEnv Java Version Manager',
+      'description': ''
     }
   ]
 };
