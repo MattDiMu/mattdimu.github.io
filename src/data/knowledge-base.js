@@ -1781,6 +1781,17 @@ x = x ^ y
       ],
       title: 'jEnv Java Version Manager',
       'description': ''
+    },
+    {
+      date: '2019-12-10',
+      tags: [
+        'javascript'
+      ],
+      links: [
+        'https://www.dylanpaulus.com/2019-11-24-how-fb-avoids-adblockers/'
+      ],
+      title: 'How Facebook Avoids Ad Blockers',
+      'description': ''
     }
   ]
 };
