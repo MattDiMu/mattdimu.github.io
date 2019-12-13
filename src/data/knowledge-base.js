@@ -1792,6 +1792,17 @@ x = x ^ y
       ],
       title: 'How Facebook Avoids Ad Blockers',
       'description': ''
+    },
+    {
+      date: '2019-12-13',
+      tags: [
+        'javascript'
+      ],
+      links: [
+        'https://www.baeldung.com/java-runtime-halt-vs-system-exit'
+      ],
+      title: 'Runtime.getRuntime().halt() vs System.exit()',
+      'description': ''
     }
   ]
 };
