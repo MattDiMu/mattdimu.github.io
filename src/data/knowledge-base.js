@@ -1803,6 +1803,17 @@ x = x ^ y
       ],
       title: 'Runtime.getRuntime().halt() vs System.exit()',
       'description': ''
+    },
+    {
+      date: '2019-12-16',
+      tags: [
+        'javascript'
+      ],
+      links: [
+        'https://www.baeldung.com/running-setup-logic-on-startup-in-spring'
+      ],
+      title: 'Running Logic on Startup in Spring',
+      'description': ''
     }
   ]
 };
