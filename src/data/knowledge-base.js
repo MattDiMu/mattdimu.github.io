@@ -1814,6 +1814,17 @@ x = x ^ y
       ],
       title: 'Running Logic on Startup in Spring',
       'description': ''
+    },
+    {
+      date: '2019-12-30',
+      tags: [
+        'javascript'
+      ],
+      links: [
+        'https://youtu.be/0rb9CfOvojk'
+      ],
+      title: '36C3 - BahnMining by David Kriesel (DE)',
+      'description': ''
     }
   ]
 };
