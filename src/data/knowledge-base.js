@@ -1825,6 +1825,17 @@ x = x ^ y
       ],
       title: '36C3 - BahnMining by David Kriesel (DE)',
       'description': ''
+    },
+    {
+      date: '2020-01-05',
+      tags: [
+        'javascript'
+      ],
+      links: [
+        'https://www.youtube.com/watch?v=31xA9p3pYE4'
+      ],
+      title: '36C3 - Reaktive Security (DE)',
+      'description': ''
     }
   ]
 };
