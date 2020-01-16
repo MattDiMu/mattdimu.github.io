@@ -1847,6 +1847,17 @@ x = x ^ y
       ],
       title: 'Google Fonts by Tags',
       'description': ''
+    },
+    {
+      date: '2020-01-16',
+      tags: [
+        'javascript'
+      ],
+      links: [
+        'https://github.com/0xZ0F/Z0FCourse_ReverseEngineering'
+      ],
+      title: 'ReverseEngineering Course (Windows/C++)',
+      'description': ''
     }
   ]
 };
