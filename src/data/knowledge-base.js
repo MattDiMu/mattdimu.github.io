@@ -1836,6 +1836,17 @@ x = x ^ y
       ],
       title: '36C3 - Reaktive Security (DE)',
       'description': ''
+    },
+    {
+      date: '2020-01-16',
+      tags: [
+        'javascript'
+      ],
+      links: [
+        'https://goofonts.com/'
+      ],
+      title: 'Google Fonts by Tags',
+      'description': ''
     }
   ]
 };
