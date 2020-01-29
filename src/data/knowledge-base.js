@@ -1858,6 +1858,17 @@ x = x ^ y
       ],
       title: 'ReverseEngineering Course (Windows/C++)',
       'description': ''
+    },
+    {
+      date: '2020-01-29',
+      tags: [
+        'javascript'
+      ],
+      links: [
+        'https://www.baeldung.com/hibernate-spatial'
+      ],
+      title: 'Hibernate Spatial | Baeldung',
+      'description': ''
     }
   ]
 };
