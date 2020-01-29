@@ -1869,6 +1869,17 @@ x = x ^ y
       ],
       title: 'Hibernate Spatial | Baeldung',
       'description': ''
+    },
+    {
+      date: '2020-01-29',
+      tags: [
+        'javascript'
+      ],
+      links: [
+        'https://www.baeldung.com/spring-boot-admin'
+      ],
+      title: 'Spring Boot Admin | Baeldung',
+      'description': ''
     }
   ]
 };
