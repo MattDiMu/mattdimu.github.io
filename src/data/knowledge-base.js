@@ -1880,6 +1880,17 @@ x = x ^ y
       ],
       title: 'Spring Boot Admin | Baeldung',
       'description': ''
+    },
+    {
+      date: '2020-02-09',
+      tags: [
+        'javascript'
+      ],
+      links: [
+        'https://www.youtube.com/watch?v=rIaz-l1Kf8w'
+      ],
+      title: 'Scrum vs Kanban - What's the Difference? - YouTube',
+      'description': ''
     }
   ]
 };
