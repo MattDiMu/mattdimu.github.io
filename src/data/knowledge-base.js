@@ -1891,6 +1891,17 @@ x = x ^ y
       ],
       title: 'Scrum vs Kanban - What's the Difference? - YouTube',
       'description': ''
+    },
+    {
+      date: '2020-02-10',
+      tags: [
+        'javascript'
+      ],
+      links: [
+        'https://www.youtube.com/watch?v=lJ3CD9M3nEQ'
+      ],
+      title: 'Modular Arithmetic Visually Explained',
+      'description': ''
     }
   ]
 };
