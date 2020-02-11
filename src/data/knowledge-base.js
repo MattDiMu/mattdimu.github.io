@@ -1889,7 +1889,7 @@ x = x ^ y
       links: [
         'https://www.youtube.com/watch?v=rIaz-l1Kf8w'
       ],
-      title: 'Scrum vs Kanban - What's the Difference? - YouTube',
+      title: 'Scrum vs Kanban - YouTube',
       'description': ''
     },
     {
