@@ -1902,6 +1902,17 @@ x = x ^ y
       ],
       title: 'Modular Arithmetic Visually Explained',
       'description': ''
+    },
+    {
+      date: '2020-02-13',
+      tags: [
+        'javascript'
+      ],
+      links: [
+        'https://medium.com/@nvashanin/the-path-to-becoming-a-software-architect-de53f1cb310a'
+      ],
+      title: 'The Path to Becoming a Software Architect - Nikolay Ashanin',
+      'description': ''
     }
   ]
 };
