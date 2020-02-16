@@ -1913,6 +1913,17 @@ x = x ^ y
       ],
       title: 'The Path to Becoming a Software Architect - Nikolay Ashanin',
       'description': ''
+    },
+    {
+      date: '2020-02-16',
+      tags: [
+        'javascript'
+      ],
+      links: [
+        'https://www.youtube.com/watch?v=Tcvsefz5DmA'
+      ],
+      title: 'Identity and Access Management',
+      'description': ''
     }
   ]
 };
