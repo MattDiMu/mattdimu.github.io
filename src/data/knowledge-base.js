@@ -1924,6 +1924,17 @@ x = x ^ y
       ],
       title: 'Identity and Access Management',
       'description': ''
+    },
+    {
+      date: '2020-02-18',
+      tags: [
+        'javascript'
+      ],
+      links: [
+        'https://www.youtube.com/watch?v=OkmNXy7er84'
+      ],
+      title: '3Blue1Brown Probability of 4 random points on sphere contain the center',
+      'description': ''
     }
   ]
 };
