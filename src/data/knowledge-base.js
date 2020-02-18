@@ -1935,6 +1935,17 @@ x = x ^ y
       ],
       title: '3Blue1Brown Probability of 4 random points on sphere contain the center',
       'description': ''
+    },
+    {
+      date: '2020-02-18',
+      tags: [
+        'javascript'
+      ],
+      links: [
+        'https://www.flickr.com/photos/95869671@N08/36231833334/'
+      ],
+      title: 'Map of Computer Science',
+      'description': ''
     }
   ]
 };
