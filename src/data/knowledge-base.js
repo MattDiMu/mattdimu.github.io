@@ -1946,6 +1946,17 @@ x = x ^ y
       ],
       title: 'Map of Computer Science',
       'description': ''
+    },
+    {
+      date: '2020-02-28',
+      tags: [
+        'javascript'
+      ],
+      links: [
+        'https://portswigger.net/research/top-10-web-hacking-techniques-of-2019'
+      ],
+      title: 'Top 10 web hacking techniques of 2019',
+      'description': ''
     }
   ]
 };
