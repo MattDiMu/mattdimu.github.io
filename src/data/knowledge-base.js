@@ -1957,6 +1957,17 @@ x = x ^ y
       ],
       title: 'Top 10 web hacking techniques of 2019',
       'description': ''
+    },
+    {
+      date: '2020-03-02',
+      tags: [
+        'javascript'
+      ],
+      links: [
+        'https://hackernoon.com/10-reasons-why-outsourcing-software-development-fails-3p1m3ykv'
+      ],
+      title: 'Reasons Why Outsourcing Software Development Often Fails',
+      'description': ''
     }
   ]
 };
