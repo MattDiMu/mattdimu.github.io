@@ -1979,6 +1979,17 @@ x = x ^ y
       ],
       title: 'The state of Developer Ecosystem in 2019 Infographic',
       'description': ''
+    },
+    {
+      date: '2020-03-09',
+      tags: [
+        'javascript'
+      ],
+      links: [
+        'https://cloudfour.com/thinks/some-imaginary-css/'
+      ],
+      title: 'CSS Feature Wish List',
+      'description': ''
     }
   ]
 };
