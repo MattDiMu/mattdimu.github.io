@@ -1968,6 +1968,17 @@ x = x ^ y
       ],
       title: 'Reasons Why Outsourcing Software Development Often Fails',
       'description': ''
+    },
+    {
+      date: '2020-03-09',
+      tags: [
+        'javascript'
+      ],
+      links: [
+        'https://www.jetbrains.com/lp/devecosystem-2019/'
+      ],
+      title: 'The state of Developer Ecosystem in 2019 Infographic',
+      'description': ''
     }
   ]
 };
