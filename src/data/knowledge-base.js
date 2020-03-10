@@ -1990,6 +1990,17 @@ x = x ^ y
       ],
       title: 'CSS Feature Wish List',
       'description': ''
+    },
+    {
+      date: '2020-03-10',
+      tags: [
+        'javascript'
+      ],
+      links: [
+        'https://www.smashingmagazine.com/2020/03/setting-height-width-images-important-again/'
+      ],
+      title: 'Preventing CSS Layout Shifts using with, height and aspect-ratio',
+      'description': ''
     }
   ]
 };
