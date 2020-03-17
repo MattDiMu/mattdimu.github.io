@@ -2001,6 +2001,17 @@ x = x ^ y
       ],
       title: 'Preventing CSS Layout Shifts using with, height and aspect-ratio',
       'description': ''
+    },
+    {
+      date: '2020-03-17',
+      tags: [
+        'javascript'
+      ],
+      links: [
+        'https://www.veracode.com/blog/intro-appsec/weighing-pros-and-cons-select-appsec-testing-types'
+      ],
+      title: 'Weighing Pros and Cons to Select AppSec Testing Types',
+      'description': ''
     }
   ]
 };
