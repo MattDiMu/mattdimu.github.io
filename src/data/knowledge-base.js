@@ -2012,6 +2012,17 @@ x = x ^ y
       ],
       title: 'Weighing Pros and Cons to Select AppSec Testing Types',
       'description': ''
+    },
+    {
+      date: '2020-03-26',
+      tags: [
+        'javascript'
+      ],
+      links: [
+        'https://docs.spring.io/spring-boot/docs/2.2.5.RELEASE/maven-plugin/'
+      ],
+      title: 'Spring Boot Maven Plugin - creating executables',
+      'description': ''
     }
   ]
 };
