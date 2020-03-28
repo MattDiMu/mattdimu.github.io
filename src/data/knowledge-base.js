@@ -2023,6 +2023,17 @@ x = x ^ y
       ],
       title: 'Spring Boot Maven Plugin - creating executables',
       'description': ''
+    },
+    {
+      date: '2020-03-28',
+      tags: [
+        'javascript'
+      ],
+      links: [
+        'https://www.baeldung.com/spring-security-clear-site-data-header'
+      ],
+      title: 'Clear-Site-Data Header',
+      'description': ''
     }
   ]
 };
