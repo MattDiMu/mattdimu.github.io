@@ -2034,6 +2034,17 @@ x = x ^ y
       ],
       title: 'Clear-Site-Data Header',
       'description': ''
+    },
+    {
+      date: '2020-04-14',
+      tags: [
+        'javascript'
+      ],
+      links: [
+        'https://www.baeldung.com/spring-beanfactory-vs-applicationcontext'
+      ],
+      title: 'Spring BeanFactory vs ApplicationContext',
+      'description': ''
     }
   ]
 };
