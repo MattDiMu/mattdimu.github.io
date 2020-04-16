@@ -2045,6 +2045,17 @@ x = x ^ y
       ],
       title: 'Spring BeanFactory vs ApplicationContext',
       'description': ''
+    },
+    {
+      date: '2020-04-16',
+      tags: [
+        'javascript'
+      ],
+      links: [
+        'https://pragmaticwebsecurity.com/articles/oauthoidc/localstorage-xss.html'
+      ],
+      title: 'Why avoiding LocalStorage for tokens is the wrong solution',
+      'description': ''
     }
   ]
 };
