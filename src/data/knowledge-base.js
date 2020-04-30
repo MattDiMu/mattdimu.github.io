@@ -2056,6 +2056,17 @@ x = x ^ y
       ],
       title: 'Why avoiding LocalStorage for tokens is the wrong solution',
       'description': ''
+    },
+    {
+      date: '2020-04-30',
+      tags: [
+        'javascript'
+      ],
+      links: [
+        'https://csswizardry.com/2020/04/real-world-effectiveness-of-brotli/'
+      ],
+      title: 'Brotli vs Gzip',
+      'description': ''
     }
   ]
 };
