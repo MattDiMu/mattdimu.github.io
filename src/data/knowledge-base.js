@@ -2067,6 +2067,17 @@ x = x ^ y
       ],
       title: 'Brotli vs Gzip',
       'description': ''
+    },
+    {
+      date: '2020-05-15',
+      tags: [
+        'javascript'
+      ],
+      links: [
+        'https://blog.gitguardian.com/8-free-security-tools-for-developers/'
+      ],
+      title: 'Shift Left Security Tools',
+      'description': ''
     }
   ]
 };
