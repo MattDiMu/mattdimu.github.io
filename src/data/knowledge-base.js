@@ -2078,6 +2078,17 @@ x = x ^ y
       ],
       title: 'Shift Left Security Tools',
       'description': ''
+    },
+    {
+      date: '2020-05-20',
+      tags: [
+        'javascript'
+      ],
+      links: [
+        'https://uxmovement.com/buttons/the-myths-of-color-contrast-accessibility/'
+      ],
+      title: 'The Myths of Color Contrast Accessibility',
+      'description': ''
     }
   ]
 };
