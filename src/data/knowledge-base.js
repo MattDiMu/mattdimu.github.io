@@ -2089,6 +2089,17 @@ x = x ^ y
       ],
       title: 'The Myths of Color Contrast Accessibility',
       'description': ''
+    },
+    {
+      date: '2020-12-05',
+      tags: [
+        'javascript'
+      ],
+      links: [
+        'https://refactoringui.com/previews/building-your-color-palette/'
+      ],
+      title: 'Building Your Color Palette',
+      'description': ''
     }
   ]
 };
