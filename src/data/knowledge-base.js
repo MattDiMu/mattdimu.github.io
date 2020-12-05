@@ -2100,6 +2100,17 @@ x = x ^ y
       ],
       title: 'Building Your Color Palette',
       'description': ''
+    },
+    {
+      date: '2020-12-05',
+      tags: [
+        'javascript'
+      ],
+      links: [
+        'https://ssl-config.mozilla.org/'
+      ],
+      title: 'Mozilla SSL Configuration Generator',
+      'description': ''
     }
   ]
 };
