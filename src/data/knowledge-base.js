@@ -2111,6 +2111,17 @@ x = x ^ y
       ],
       title: 'Mozilla SSL Configuration Generator',
       'description': ''
+    },
+    {
+      date: '2020-12-22',
+      tags: [
+        'javascript'
+      ],
+      links: [
+        'https://www.youtube.com/watch?v=QKTuqxBoZc4'
+      ],
+      title: 'OWASP Threat Modeling Playbook (OTMP) by Sebastien Deleersnyder - YouTube',
+      'description': ''
     }
   ]
 };
