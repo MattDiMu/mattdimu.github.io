@@ -2122,6 +2122,17 @@ x = x ^ y
       ],
       title: 'OWASP Threat Modeling Playbook (OTMP) by Sebastien Deleersnyder - YouTube',
       'description': ''
+    },
+    {
+      date: '2021-01-04',
+      tags: [
+        'javascript'
+      ],
+      links: [
+        'https://www.youtube.com/watch?v=lG4VkPoG3ko'
+      ],
+      title: 'The medical test paradox: Can redesigning Bayes rule help? - YouTube',
+      'description': ''
     }
   ]
 };
