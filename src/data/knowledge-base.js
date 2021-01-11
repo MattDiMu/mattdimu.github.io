@@ -2133,6 +2133,17 @@ x = x ^ y
       ],
       title: 'The medical test paradox: Can redesigning Bayes rule help? - YouTube',
       'description': ''
+    },
+    {
+      date: '2021-01-11',
+      tags: [
+        'javascript'
+      ],
+      links: [
+        'https://springframework.guru/using-records-in-java/'
+      ],
+      title: 'Using Records in Java - Spring Framework Guru',
+      'description': ''
     }
   ]
 };
